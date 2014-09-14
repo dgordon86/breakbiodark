@@ -1,0 +1,330 @@
+.owl-theme .owl-controls .owl-buttons div,
+.load-more span,
+.search-form .search-submit,
+.widget-lastest-post .owl-carousel .owl-buttons div span,
+
+#main-content .widget-newsletter .kp-newsletter, #sidebar .widget-newsletter .kp-newsletter,
+#main-content .widget-newsletter input[type="submit"], #sidebar .widget-newsletter input[type="submit"],
+.widget-feature-slider .owl-controls .owl-buttons div span i,
+.widget-random .ps-container .ps-scrollbar-x-rail,
+.widget-random .ps-container .ps-scrollbar-x,
+.widget-feature-news-slider .owl-carousel .owl-controls .owl-buttons div span i,
+.widget-latest-article .item figure a span,
+.widget-latest-article .variable-sizes .item > figure span,
+.widget-area-3 .widget-list-post .widget-content > ul > li:before,
+.index-4 #page-header .kp-phone span, .index-4 #page-header .kp-address span,
+.widget-tool-2 .item .kp-icon .tool-icon,
+.widget-tool-2 .item .kp-icon .circle,
+.index-5 #page-header .header-top .kp-phone span,
+.index-5 .widget-service .widget-content .owl-carousel .owl-controls .owl-page span,
+.index-5 .widget-blog-post .share-link span, .index-4 .widget-blog-post .share-link span,
+.index-5 .widget-blog-post .owl-theme .owl-controls .owl-page span, 
+.index-4 .widget-blog-post .owl-theme .owl-controls .owl-page span,
+.index-5 .widget-testi-1 .sync1 .item, .index-4 .widget-testi-1 .sync1 .item,
+.index-5 .widget-testi-1 .sync1 .owl-controls .owl-buttons div, 
+.index-4 .widget-testi-1 .sync1 .owl-controls .owl-buttons div,
+.index-5 .widget-testi-1 .sync1 .owl-controls .owl-buttons div span,
+.owl-theme .owl-controls .owl-page span,
+.index-4 .widget-testi-1 .sync1 .owl-controls .owl-buttons div span,
+.index-5 .widget-projects .owl-carousel-outer > .owl-controls .owl-page span, 
+.index-4 .widget-projects .owl-carousel-outer > .owl-controls .owl-page span,
+.index-5 .widget-tools .kp-icon, .index-4 .widget-tools .kp-icon,
+.index-5 .widget-tools .kp-icon i, .index-4 .widget-tools .kp-icon i,
+.index-5 .widget-tools .kp-icon span, .index-4 .widget-tools .kp-icon span,
+body .ui-tooltip .ui-tooltip-content,
+.kp-portfolio .widget-recent-works .load-more span,
+.kp-breadcrumb .breadcrumb,
+.site-1 .post-content .kp-author .social-box.style-2 a,
+.sub-page .post-content .kp-author .kp-social a,
+.sub-page.site-2 .post-content .kp-author .social-box.style-2 a,
+.pricing-table .icon-stack,
+.index-5 .widget-loading .circle-ie, .index-4 .widget-loading .circle-ie,
+.index-5 .widget-loading .circle-ie .inner-circle-ie, .index-4 .widget-loading .circle-ie .inner-circle-ie,
+.pricing-table a,
+.kp-services .list-services span.pull-left,
+.kp-services .list-services span.pull-left i,
+.kp-services .list-services .item-right .item-content,
+.kp-services .service-comment .item .bottom-item .pull-left,
+.kp-services .service-comment .item .bottom-item .pull-left img,
+.widget-gallery .sync1 .owl-controls .owl-buttons div span,
+.ui-accordion .ui-accordion-header,
+.ui-accordion .ui-accordion-content,
+.ui-accordion.style-2 .ui-accordion-content,
+.ui-tabs,
+.ui-tabs .ui-tabs-nav,
+.ui-tabs .ui-tabs-nav .ui-state-default,
+.ui-tabs .ui-tabs-panel,
+.kp-dropcap.style-2 ,
+.kp-blockquote-2:after,
+.kp-testi .pull-left img,
+.purchase-theme a,
+.kp-blog-timeline .filter-isotope .kp-now,
+.kp-blog-timeline .kp-isotope .item > a span,
+.kp-blog-timeline .kp-isotope .item .more-i .more-time,
+.kp-blog-timeline .kp-isotope .item .more-i > span,
+.kp-blog-timeline .kp-isotope .load-more,
+.kp-blog-timeline .kp-isotope .load-more span,
+.contact-info .item span,
+.form-contact .contact-form .form-control,
+.form-contact .contact-form input[type="submit"],
+#page-header .header-top .menu-second.nav li a,
+.index-5 .menu-primary.nav a,
+.index-4 .main-menu .menu-primary.nav a,
+.widget-random .ps-container .ps-scrollbar-x-rail,
+.index-5 .widget-blog-post .share-link .kp-tooltip, .index-4 .widget-blog-post .share-link .kp-tooltip,
+.index-5 .widget-testi-1 .sync2 .item, .index-4 .widget-testi-1 .sync2 .item,
+body .ui-tooltip,
+.ui-progressba,
+.btn.style-2,
+.btn.style-3,
+.btn.style-4
+{
+behavior: url(pie.htc);
+}
+.col-md-1,
+  .col-md-2,
+  .col-md-3,
+  .col-md-4,
+  .col-md-5,
+  .col-md-6,
+  .col-md-7,
+  .col-md-8,
+  .col-md-9,
+  .col-md-10,
+  .col-md-11,
+  .col-md-12 {
+    float: left;
+  }
+  .col-md-12 {
+    width: 100%;
+  }
+  .col-md-11 {
+    width: 91.66666666666666%;
+  }
+  .col-md-10 {
+    width: 83.33333333333334%;
+  }
+  .col-md-9 {
+    width: 75%;
+  }
+  .col-md-8 {
+    width: 66.66666666666666%;
+  }
+  .col-md-7 {
+    width: 58.333333333333336%;
+  }
+  .col-md-6 {
+    width: 50%;
+  }
+  .col-md-5 {
+    width: 41.66666666666667%;
+  }
+  .col-md-4 {
+    width: 33.33333333333333%;
+  }
+  .col-md-3 {
+    width: 25%;
+  }
+  .col-md-2 {
+    width: 16.666666666666664%;
+  }
+  .col-md-1 {
+    width: 8.333333333333332%;
+  }
+  .col-md-pull-12 {
+    right: 100%;
+  }
+  .col-md-pull-11 {
+    right: 91.66666666666666%;
+  }
+  .col-md-pull-10 {
+    right: 83.33333333333334%;
+  }
+  .col-md-pull-9 {
+    right: 75%;
+  }
+  .col-md-pull-8 {
+    right: 66.66666666666666%;
+  }
+  .col-md-pull-7 {
+    right: 58.333333333333336%;
+  }
+  .col-md-pull-6 {
+    right: 50%;
+  }
+  .col-md-pull-5 {
+    right: 41.66666666666667%;
+  }
+  .col-md-pull-4 {
+    right: 33.33333333333333%;
+  }
+  .col-md-pull-3 {
+    right: 25%;
+  }
+  .col-md-pull-2 {
+    right: 16.666666666666664%;
+  }
+  .col-md-pull-1 {
+    right: 8.333333333333332%;
+  }
+  .col-md-pull-0 {
+    right: 0;
+  }
+  .col-md-push-12 {
+    left: 100%;
+  }
+  .col-md-push-11 {
+    left: 91.66666666666666%;
+  }
+  .col-md-push-10 {
+    left: 83.33333333333334%;
+  }
+  .col-md-push-9 {
+    left: 75%;
+  }
+  .col-md-push-8 {
+    left: 66.66666666666666%;
+  }
+  .col-md-push-7 {
+    left: 58.333333333333336%;
+  }
+  .col-md-push-6 {
+    left: 50%;
+  }
+  .col-md-push-5 {
+    left: 41.66666666666667%;
+  }
+  .col-md-push-4 {
+    left: 33.33333333333333%;
+  }
+  .col-md-push-3 {
+    left: 25%;
+  }
+  .col-md-push-2 {
+    left: 16.666666666666664%;
+  }
+  .col-md-push-1 {
+    left: 8.333333333333332%;
+  }
+  .col-md-push-0 {
+    left: 0;
+  }
+  .col-md-offset-12 {
+    margin-left: 100%;
+  }
+  .col-md-offset-11 {
+    margin-left: 91.66666666666666%;
+  }
+  .col-md-offset-10 {
+    margin-left: 83.33333333333334%;
+  }
+  .col-md-offset-9 {
+    margin-left: 75%;
+  }
+  .col-md-offset-8 {
+    margin-left: 66.66666666666666%;
+  }
+  .col-md-offset-7 {
+    margin-left: 58.333333333333336%;
+  }
+  .col-md-offset-6 {
+    margin-left: 50%;
+  }
+  .col-md-offset-5 {
+    margin-left: 41.66666666666667%;
+  }
+  .col-md-offset-4 {
+    margin-left: 33.33333333333333%;
+  }
+  .col-md-offset-3 {
+    margin-left: 25%;
+  }
+  .col-md-offset-2 {
+    margin-left: 16.666666666666664%;
+  }
+  .col-md-offset-1 {
+    margin-left: 8.333333333333332%;
+  }
+  .col-md-offset-0 {
+    margin-left: 0;
+  }
+.widget-lastest-post {
+	width: 1345px;
+}
+.widget-latest-article .item figure a {
+	width: 248px;
+}
+.widget-most-review .index0 .item h4 a {
+	background: #cf2d2d;
+}
+.widget-most-review .index1 .item h4 a {
+	background: #636363;
+}
+.widget-most-review .index2 .item h4 a {
+	background: #7a7a7a;
+}
+.widget-most-review .index3 .item h4 a {
+	background: #a4a4a4;
+}
+.widget-most-review .index4 .item h4 a {
+	background: #c0c0c0
+}
+.widget-most-review .widget-content .item span {
+	right: -40px;
+}
+.widget-feature-images {
+	width: 1345px;
+}
+.index-5 .widget-projects .item-right .panel, .index-4 .widget-projects .item-right .panel,
+.index-5 .widget-projects .item-right .panel .front , .index-4 .widget-projects .item-right .panel .front  {
+	width: 532px;
+	position: relative;
+	overflow: visible;
+	float: right;
+}
+.index-5 .widget-projects .owl-carousel-inner .owl-controls .owl-buttons div, .index-4 .widget-projects .owl-carousel-inner .owl-controls .owl-buttons div {
+	background: #47505e;
+}
+.owl-theme .owl-controls .owl-page span {
+  display: block;
+  position: relative;
+}
+.widget-feature-images .owl-theme .owl-controls .owl-page.active span {
+  background: #ccc;
+}
+
+.index-5 .widget-projects .item-right, .index-4 .widget-projects .item-right {
+  position: relative;
+  float: right;
+  margin-top: -25px;
+}
+.index-5 .widget-projects .owl-carousel-outer .item, .index-4 .widget-projects .owl-carousel-outer .item {
+  height: 312px;
+}
+.widget-recent-works .kp-isotope .mask {
+  background: #093d71;
+}
+.index-5 .widget-carousel-cp, .index-4 .widget-carousel-cp {
+  width: 1345px;
+}
+.index-5 .widget-loading .circle, .index-4 .widget-loading .circle {
+  display: none;
+}
+.index-5 .widget-loading .circle-ie, .index-4 .widget-loading .circle-ie{
+  display: block;
+}
+.index-5 .widget-carousel-cp .fraction-slider .prev, .index-5 .widget-carousel-cp .fraction-slider .next, .index-4 .widget-carousel-cp .fraction-slider .prev, .index-4 .widget-carousel-cp .fraction-slider .next {
+  background: #2e5a86;
+}
+
+.widget-gallery .sync1 .item .kp-caption {
+  background: #0a0609;
+}
+.widget-recent-works .item .mask,
+.widget-recent-works .kp-isotope .item-content {
+  display: none;
+}
+.widget-recent-works .item:hover .mask,
+.widget-recent-works .kp-isotope .item:hover .item-content {
+  display: block;
+}

@@ -1,0 +1,513 @@
+/*
+ * --------------------------------------------------
+ * SIZE
+ * --------------------------------------------------
+ */
+.width_full{
+    width: 100%;
+}
+.manage-column.column-thumbnail{
+    width: 60px;
+}
+.linedtextarea.kopa-ui-textarea{            
+    background-size: 38px 38px;
+}
+/*
+ * --------------------------------------------------
+ * METABOX
+ * --------------------------------------------------
+ */
+.kopa-metabox-wrap{
+    padding: 15px 0px;    
+    border-top:1px solid #D5D5D5;
+}
+.kopa-metabox-wrap.kopa-metabox-wrap-first{    
+    border-top:none;
+    margin-top: 0px  !important;    
+    padding-top: 9px !important;
+}
+.kopa-metabox-wrap ul,
+.kopa-metabox-wrap ol,
+.kopa-metabox-wrap li{
+    list-style: none;
+}
+.kopa-metabox-wrap input[type=text],
+.kopa-metabox-wrap input[type=email],
+.kopa-metabox-wrap input[type=url],
+.kopa-metabox-wrap input[type=password],
+.kopa-metabox-wrap textarea{
+    width: 100%;
+}
+.kopa-metabox-wrap select.kopa-ui-select-number,    
+.kopa-metabox-wrap input[type=number]{
+    width: 60px;
+}
+.kopa-metabox-wrap.kopa-metabox-wrap-last{
+    padding-bottom: 3px;
+}
+/*
+ * --------------------------------------------------
+ * MEDIA
+ * --------------------------------------------------
+ */
+.kopa-ui-media-wrap{
+    display: block;
+    width: 80px;    
+    height: 80px;    
+    position: relative;
+    background-color: #fff;
+}
+.kopa-ui-media-wrap.has-image,
+.kopa-ui-media-wrap.has-image img{
+    width: auto;
+    height: auto;    
+    border: none;
+    background: none;  
+    margin-bottom: 10px;
+    max-width: 240px;
+    max-height: 360px;  
+}
+.kopa-ui-media-upload{
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 80px;
+    height: 80px;      
+    line-height: 80px;    
+    background: url('../images/kopa-ui-media.png') no-repeat 0 0 transparent;
+    border: none !important;
+}
+.kopa-ui-media-upload:hover{    
+    background: url('../images/kopa-ui-media-hover.png') no-repeat 0 0 transparent;    
+}
+.kopa-ui-media-remove,
+.kopa-ui-media-remove:active{
+    display: block;
+    position: absolute;
+    bottom: -8px;
+    left: -8px;
+    width: 16px;
+    height: 16px;      
+    line-height: 16px;            
+    text-decoration: none;            
+    background: url('../images/remove.png') center center no-repeat transparent;
+}
+.ui-hide{
+    display: none;
+}
+.kopa-ui-label{
+    display: inline-block;
+    width: auto;
+}
+.kopa-content-box .kopa-ui-font-weight{
+    width: 200px !important;
+}
+#__custom_css { 
+    height: 400px !important;
+}
+/*
+ * --------------------------------------------------
+ * COLOR PICKER
+ * --------------------------------------------------
+ */
+.kopa-ui-color{
+    width: 80px !important;
+    height:20px !important;
+}
+/*
+ * --------------------------------------------------
+ * GOOGLE FONTS
+ * --------------------------------------------------
+ */
+.kopa-ui-google-font-picker a{
+    text-decoration: none;
+}
+.kopa-ui-google-font-preview{    
+    height: 30px;
+    width: 240px;
+    line-height: 30px;
+    background-color: transparent;
+    background-position: top left;
+    background-repeat: no-repeat;
+    border: none;
+}
+/*
+ * --------------------------------------------------
+ * NUMBER
+ * --------------------------------------------------
+ */
+.kopa-ui-number{
+    width: 80px !important;
+}
+/*
+ * --------------------------------------------------
+ * MULTI TEXT
+ * --------------------------------------------------
+ */
+li.multi-text-element{
+    width: 100%;
+    position: relative;
+}
+li.multi-text-element > .multi-text-drag,
+li.multi-text-element > .multi-text-add,
+li.multi-text-element > .multi-text-del{
+    position: absolute;
+    bottom: 2px;
+}
+li.multi-text-element > .multi-text-drag{        
+    left: 2px;
+    width: 40px !important;
+}
+li.multi-text-element > .multi-text-add,
+li.multi-text-element > .multi-text-del{
+    width: 30px !important;
+    display: none;
+}
+li.multi-text-element > .multi-text-add{
+    right: 33px;    
+}
+li.multi-text-element > .multi-text-del{
+    right: 2px;   
+}
+li.multi-text-element:hover > .multi-text-add,
+li.multi-text-element:hover > .multi-text-del{
+    display: block;
+}
+li.multi-text-element input[type=text]{
+    padding-left: 45px !important;
+    padding-right: 65px !important;
+}
+ul.kopa-ui-multi-text {
+    margin: 0px;    
+}
+.multi-text-drag{
+    display: inline-block;    
+}
+.multi-text-placeholder{    
+    height: 27px;
+    width: 100%;
+    background: url('../images/patterns/cream_pixels.png') top left repeat transparent;
+}
+
+/*
+ * --------------------------------------------------
+ * COLOR SWATCHES
+ * --------------------------------------------------
+ */
+.color-swatches-item{
+    display: block;
+    position: relative;
+    height: 112px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;   
+    border: 1px solid #42B3E5;
+    padding: 1px;
+}
+.color-swatches-single-outer .color-swatches-item{
+    height: 75px;
+}
+.color-swatches-item > span{
+    display: block;
+    height: 40px;
+    width:  100%;
+    margin: 0px;
+    padding: 0px;    
+}
+.color-swatches-item input{
+    display: block;    
+    margin: 8px auto;
+    width: 16px;
+    height: 16px;
+    padding: 0px;
+}
+.color-swatches-primary{
+    color: #FFF;
+    text-transform: uppercase;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: 700;
+    line-height: 40px;
+    position: relative;
+}
+.color-swatches-single-customize span,
+.color-swatches-single-customize{    
+    border: 1px solid #D5D5D5;    
+}
+.color-swatches-single-customize span{
+    background: #FFF;    
+    color: #222;
+}
+.color-swatches-primary > i{
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.radio-pattern-item{
+    display: block;
+    position: relative;
+    height: 60px;
+    width: 100%;
+    background-position: top left;
+    background-repeat: repeat;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+/*
+ * --------------------------------------------------
+ * RADIO PATTERN
+ * --------------------------------------------------
+ */
+.radio-pattern-item.active{
+    border: 1px solid #d35400;
+}
+.radio-pattern-item input{
+    display: none !important;
+}
+.percent10{
+    width: 10%;
+    min-width: 50px;
+}
+.percent20{
+    width: 20%;
+    min-width: 100px;
+}
+.percent30{
+    width: 30%;
+    min-width: 150px;
+}
+.percent40{
+    width: 40%;
+    min-width: 200px;
+}
+.percent50{
+    width: 50%;
+    min-width: 300px;
+}
+.percent100{
+    width: 100%;
+}
+.kopa_sub_field_wrap{
+}
+.kopa_sub_field_control{
+    margin-top: 5px;
+}
+.kopa-opt-fields > .row > .col-xs-9 > .kopa_sub_field_wrap{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D5D5D5;
+}
+.kopa_recaptcha_skin_off,  
+.kopa-opt-fields > .row > .col-xs-9 > .kopa_sub_field_wrap:last-child{
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    border-bottom: none !important;
+}
+/*
+ * --------------------------------------------------
+ * FONTS
+ * --------------------------------------------------
+ */
+.kopa-font-ui-caption{
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.kopa-font-ui-caption > div > span{
+    display: block;
+    width: 100%;
+}
+.kopa-font-ui-preview{
+    background-color: #FFF;
+    border: 1px solid #D5D5D5;
+    padding: 20px 10px;
+    margin-bottom: 0px;
+}
+.kopa-ui-help{    
+    color: #666;                
+    padding: 5px;
+    margin: 10px 0px 0px 0px;    
+    background-color: #FFF;
+    border-left: 3px solid #5970A3;
+}
+.kopa-metabox-wrap .kopa-ui-help{
+    background: url("../images/action-bar.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-size: 12px;
+}
+
+/*
+ * --------------------------------------------------
+ * RESPONSIVE
+ * --------------------------------------------------
+ */
+
+@media only screen and (min-width: 1280px) and (max-width: 1365px){}
+@media only screen and (min-width: 1024px) and (max-width: 1279px){
+    .kopa-ui-rating .rating-feature{
+        width: 625px !important;
+    }  
+}
+@media only screen and (min-width: 980px) and (max-width: 1023px){
+    .kopa-ui-rating .rating-feature{
+        width: 256px !important;
+    }  
+}
+@media only screen and (min-width: 800px) and (max-width: 979px){
+    .kopa-ui-rating .rating-feature{
+        width: 300px !important;
+    }  
+}
+@media only screen and (min-width: 768px) and (max-width: 799px){
+    .color-swatches-outer{ 
+        margin-bottom: 10px;        
+    }
+    .kopa-ui-rating .rating-feature{
+        width: 300px !important;
+    }  
+}
+@media only screen and (max-width: 767px){
+    .widgets-holder-wrap .widgets-sortables > .widget{
+        margin-left: 0px !important;
+    }    
+}
+@media only screen and (min-width: 640px) and (max-width: 767px){
+    .color-swatches-outer{ 
+        margin-bottom: 10px;        
+    }
+    select.kopa-ui-select[multiple]{
+        height: 100px !important;
+    }
+    .kopa-ui-rating .rating-feature{
+        width: 330px !important;
+    }   
+}
+@media only screen and (min-width: 480px) and (max-width: 639px){
+    .color-swatches-outer{ 
+        margin-bottom: 10px;        
+    }
+    select.kopa-ui-select[multiple]{
+        height: 100px !important;
+    }
+    .kopa-ui-rating .rating-feature{
+        width: 330px !important;
+    }    
+}
+@media only screen and (max-width: 479px){
+    .color-swatches-outer{ 
+        margin-bottom: 10px;        
+    }
+    .kopa-ui-rating .rating-feature{
+        width: 90px !important;
+    }   
+}
+.row_space15{
+    margin-left: -5px;
+    margin-right: -5px;
+}
+.row_space15 .col-xs-1,
+.row_space15 .col-xs-2,
+.row_space15 .col-xs-3,
+.row_space15 .col-xs-4,
+.row_space15 .col-xs-5,
+.row_space15 .col-xs-6,
+.row_space15 .col-xs-7,
+.row_space15 .col-xs-8,
+.row_space15 .col-xs-9,
+.row_space15 .col-xs-10,
+.row_space15 .col-xs-11,
+.row_space15 .col-xs-12,
+.row_space15 .col-sm-1,
+.row_space15 .col-sm-2,
+.row_space15 .col-sm-3,
+.row_space15 .col-sm-4,
+.row_space15 .col-sm-5,
+.row_space15 .col-sm-6,
+.row_space15 .col-sm-7,
+.row_space15 .col-sm-8,
+.row_space15 .col-sm-9,
+.row_space15 .col-sm-10,
+.row_space15 .col-sm-11,
+.row_space15 .col-sm-12,
+.row_space15 .col-md-1,
+.row_space15 .col-md-2,
+.row_space15 .col-md-3,
+.row_space15 .col-md-4,
+.row_space15 .col-md-5,
+.row_space15 .col-md-6,
+.row_space15 .col-md-7,
+.row_space15 .col-md-8,
+.row_space15 .col-md-9,
+.row_space15 .col-md-10,
+.row_space15 .col-md-11,
+.row_space15 .col-md-12{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/*
+ * --------------------------------------------------
+ * UI ICON
+ * --------------------------------------------------
+ */
+.kopa-ui-icon-list-wrap{    
+    margin: 15px;
+}
+.kopa-ui-icon-item{
+    margin-top: 10px;    
+    line-height: 16px;
+}
+.kopa-ui-icon-item a{
+    text-decoration: none;
+    color: #222222 !important;
+}
+.kopa-ui-icon-item a:hover{
+    color: red !important;
+}
+.kopa-ui-icon-item i{
+    font-size: 16px;    
+}
+.kopa-ui-icon-item span{
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 12px;    
+}
+.kopa-ui-icon-list-wrap h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+.kopa-ui-icon-list-wrap h3{
+    border-top: 1px solid #D5D5D5;
+    padding-top: 15px;
+}
+.kopa-ui-icon-preview{
+    font-size: 64px;
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.kopa-ui-icon-remove,
+.kopa-ui-icon-select{
+    width: 64px;
+    text-decoration: none;
+}
+/*
+ * --------------------------------------------------
+ * CUSTOM POST-TYPE
+ * --------------------------------------------------
+ */
+#social_links.postbox .kopa-ui-label{
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    clear: both;
+}
+#social_links.postbox .kopa-ui-label .kps-iconmoon{
+    font-size: 22px;    
+}

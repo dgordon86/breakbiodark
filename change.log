@@ -1,0 +1,16 @@
+#1.0.4
+[ADD] youtube-url & rss-url for user profile
+
+#1.0.3
+[FIX] Display wp-caption for image
+[ADD] Allow select "Character sets (scripts)" for Custom Google fonts (Typography)
+
+#1.0.2
+[EDIT] Change capability for menu-page is "edit_theme_options"
+[EDIT] Change default value of theme options > contact form
+
+#1.0.1
+[UPDATE] Update Demo.xml file
+
+#1.0.0
+[INIT] Theme release !!!

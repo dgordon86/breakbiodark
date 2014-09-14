@@ -1,0 +1,64 @@
+.kopa-widget-wrap{
+    margin-top: 10px;
+}
+.kopa-widget-control-wrap{
+    margin: 0px;
+    padding-bottom: 15px;
+}
+.kopa-widget-control-wrap label.kopa-ui-label{
+    display: inline-block;
+    margin-bottom: 5px;    
+}
+.kopa-widget-control-wrap label.kopa-ui-label.kopa-ui-checkbox-label{
+    width: auto !important;
+}
+.kopa-widget-control-wrap input[type=text],
+.kopa-widget-control-wrap input[type=email],
+.kopa-widget-control-wrap input[type=number],
+.kopa-widget-control-wrap input[type=url],
+.kopa-widget-control-wrap select,
+.kopa-widget-control-wrap textarea{
+    width: 100%;
+}
+div.widget-made-by-kopa{    
+    background: url('../images/logo.png') no-repeat 7px center transparent;
+    text-indent: 15px;
+}
+.kopa-widget-wrap .kopa-ui-media-wrap.has-image,
+.kopa-widget-wrap .kopa-ui-media-wrap.has-image img{
+    max-width: 240px !important;    
+    max-height: 360px !important;  
+}
+.kopa-widget-bonus-wrap{
+    border: 1px solid #E5E5E5;
+    padding: 0px 15px;
+    margin-bottom: 15px;
+}
+.kopa-widget-bonus-caption{     
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    line-height: 20px;
+    vertical-align: middle;
+}
+.kopa-widget-bonus-caption > input[type=checkbox]{
+    display: block;
+    height: 16px;
+    width: 16px;
+    margin: 4px 0px 0px 0px !important;    
+    padding: 0px;
+}
+.kopa-widget-bonus-inner{
+    border-top: 1px solid #E5E5E5;
+    margin: 0px;
+    padding-top: 15px;
+}
+.kopa-widget-bonus-caption > i{
+    font-size: 11px;
+    text-transform: none;
+    display: block;
+    width: 100%;
+    font-style: italic;
+}

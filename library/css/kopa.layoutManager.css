@@ -1,0 +1,66 @@
+.layout-manage-wrap{
+    padding-left: 15px;
+}
+.cbo_layout,
+.cbo_sidebar{
+    width: 100%;
+}
+.row-sidebar-wrap,
+.row-layout-wrap{
+    border: 1px solid #D5D5D5;
+    color: #555555;
+    display: block;
+    font-size: 12px;
+    margin-bottom: 0;
+    margin-top: -1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: relative;
+    text-decoration: none;    
+}
+.row-layout-wrap{
+    margin-bottom: 15px;
+}
+.col-sidebar-title,
+.col-layout-title{
+    display: block;    
+    color: #555555;    
+    font-family: 'Open Sans',sans-serif;
+    font-size: 11px;
+    font-weight: 600;    
+    text-transform: uppercase;
+}
+.col-layout-title{
+    margin-bottom: 5px;
+}
+.col-layout-thumb > img{
+    border: 1px solid #D5D5D5;
+    padding: 2px;    
+    margin-top: -1px;
+}
+.layout-thumb-active,
+.row-sidebars-active{
+    display: block;
+}
+.layout-thumb-deactive,
+.row-sidebars-deactive{
+    display: none;
+}
+.col-sidebar-title > label{
+    display: block;
+    height: 28px;
+    line-height: 28px;
+    vertical-align: middle;
+}
+/*TAXONOMY*/
+.kopa-tax-form-field input[type=checkbox]{
+    width: auto !important;
+}
+.kopa-tax-form-field > td > .kopa-tax-form-field-inner{
+    width: 95% !important;
+}
+.kopa-tax-form-field-inner .row-sidebar-wrap,
+.kopa-tax-form-field-inner .row-layout-wrap,
+.kopa-tax-form-field-inner .col-layout-thumb > img{
+    border: 1px solid #D7D7D7;
+}

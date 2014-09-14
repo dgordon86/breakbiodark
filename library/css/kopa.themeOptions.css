@@ -1,0 +1,90 @@
+.kopa-tab-body{
+    margin-bottom: 40px;
+    padding: 0px;
+}
+.kopa-tab .kopa-tab-body:last-of-type{
+    margin-bottom: 0px;
+}
+.kopa-opt-fields{    
+    border-bottom: 1px solid #D5D5D5;
+    padding: 10px;
+}
+.kopa-tab-body > .kopa-opt-fields:last-child{
+    border-bottom: none;
+}
+.kopa-ui-help{
+    margin-top: 10px;
+    font-size: 12px;
+}
+.kopa-opt-fields input[type=text],
+.kopa-opt-fields input[type=email],
+.kopa-opt-fields input[type=url],
+.kopa-opt-fields input[type=password],
+.kopa-opt-fields textarea{
+    width: 100%;
+}
+.kopa-opt-fields select{
+    width: 50%;
+}
+.kopa-opt-fields code{
+    background-color: #F9F2F4;
+    border-radius: 4px;
+    color: #C7254E;
+    font-size: 90%;
+    padding: 2px 4px;    
+}
+/*SIZE*/
+.txa_large{
+    height: 400px;
+}
+.kopa-opt-fields .wp-color-result,    
+.kopa-opt-fields .wp-picker-input-wrap .kopa-ui-color{
+    height: 24px !important;
+}
+#custom_css{
+    height: 400px !important;
+}
+.blog-position-outer{ 
+    border: 1px solid #D5D5D5;
+    padding: 2px;
+}
+.blog-position-outer label img{
+    display: block;    
+    width: 100%;            
+}
+.blog-position-left  label{
+    background-image: url('../images/thumbs/left.png');
+}
+.blog-position-right  label{
+    background-image: url('../images/thumbs/right.png');
+}
+.blog-position-zebra  label{
+    background-image: url('../images/thumbs/zebra.png');
+}
+#kopa-group-social_links .kopa-opt-field-label .kopa-ui-label{
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    clear: both;
+}
+#kopa-group-social_links .kopa-opt-field-label .kopa-ui-label .kps-iconmoon{
+    font-size: 16px;    
+}
+.btn-reset-default{
+    position: absolute;
+    bottom: 10px;
+    width: 153px;
+    text-decoration: none;
+}
+#tab-typography select{
+    width: 100% !important;
+}
+.kopa_subtab_action{
+    cursor: pointer;
+}
+span.kopa_seo_title_key{
+    display: inline-block;   
+    width: 150px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}

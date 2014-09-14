@@ -1,0 +1,3117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Circle theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-17 16:17+0700\n"
+"PO-Revision-Date: 2014-05-17 16:17+0700\n"
+"Last-Translator: kopasoft <kopasoft@gmail.com>\n"
+"Language-Team: KOPASOFT <kopasoft@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:36
+msgid "<span>&laquo;</span> Previous"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Next <span>&raquo;</span>"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:74
+msgid "Name <span>(*)</span>"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Email <span>(*)</span>"
+msgstr ""
+
+# @ circle
+#: ../comments.php:92
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:101
+msgid "Your comments <span>(*)</span>"
+msgstr ""
+
+#: ../comments.php:112
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:113
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:114
+msgid ""
+"Your email address will not be published. Required fields are marked "
+"<span>(*)</span>"
+msgstr ""
+
+#: ../comments.php:118
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:119
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:120
+msgid "X"
+msgstr ""
+
+#: ../comments.php:121
+msgid "Post Comment"
+msgstr ""
+
+# @ circle
+#: ../comments.php:203 ../library/classes/posttype.class.php:335
+#: ../library/classes/posttype.class.php:421
+msgid "Edit"
+msgstr ""
+
+#: ../header-2.php:29 ../header.php:29 ../library/frontend.php:21
+msgid "Top Menu"
+msgstr ""
+
+# @ circle
+#: ../layouts/blog-page-1.php:107 ../layouts/blog-page-2.php:116
+#: ../layouts/single-post-1.php:72 ../library/ajax.php:519
+#: ../library/frontend.php:593 ../library/widgets/posts-ajax-filter.php:316
+#: ../library/widgets/posts-carousel-single.php:77
+#: ../library/widgets/posts-carousel-two-cols.php:102
+#: ../library/widgets/posts-carousel-two-cols.php:171
+#: ../library/widgets/posts-thumbnail-big-and-small.php:83
+#: ../library/widgets/posts-thumbnail-medium.php:103
+#: ../library/widgets/posts-thumbnail-none.php:86
+msgid "No Comment"
+msgstr ""
+
+# @ circle
+#: ../layouts/blog-page-1.php:107 ../layouts/blog-page-2.php:116
+#: ../layouts/single-post-1.php:72 ../library/ajax.php:519
+#: ../library/frontend.php:593 ../library/widgets/posts-ajax-filter.php:316
+#: ../library/widgets/posts-carousel-single.php:77
+#: ../library/widgets/posts-carousel-two-cols.php:102
+#: ../library/widgets/posts-carousel-two-cols.php:171
+#: ../library/widgets/posts-thumbnail-big-and-small.php:83
+#: ../library/widgets/posts-thumbnail-medium.php:103
+#: ../library/widgets/posts-thumbnail-none.php:86
+msgid "1 Comment"
+msgstr ""
+
+# @ circle
+#: ../layouts/blog-page-1.php:107 ../layouts/blog-page-2.php:116
+#: ../layouts/single-post-1.php:72 ../library/ajax.php:519
+#: ../library/frontend.php:593 ../library/widgets/posts-ajax-filter.php:316
+#: ../library/widgets/posts-carousel-single.php:77
+#: ../library/widgets/posts-carousel-two-cols.php:102
+#: ../library/widgets/posts-carousel-two-cols.php:171
+#: ../library/widgets/posts-thumbnail-big-and-small.php:83
+#: ../library/widgets/posts-thumbnail-medium.php:103
+#: ../library/widgets/posts-thumbnail-none.php:86
+msgid "% Comments"
+msgstr ""
+
+#: ../layouts/blog-page-1.php:107 ../layouts/blog-page-2.php:116
+#: ../layouts/single-post-1.php:72 ../library/ajax.php:519
+#: ../library/classes/util.class.php:534 ../library/frontend.php:593
+#: ../library/widgets/posts-ajax-filter.php:316
+#: ../library/widgets/posts-carousel-single.php:77
+#: ../library/widgets/posts-carousel-two-cols.php:102
+#: ../library/widgets/posts-carousel-two-cols.php:171
+#: ../library/widgets/posts-thumbnail-big-and-small.php:83
+#: ../library/widgets/posts-thumbnail-medium.php:103
+#: ../library/widgets/posts-thumbnail-none.php:86
+msgid "0 Comment"
+msgstr ""
+
+#: ../layouts/blog-page-1.php:146 ../layouts/blog-page-2.php:155
+#: ../library/ajax.php:559
+#: ../library/widgets/posts-thumbnail-big-and-small.php:105
+#: ../library/widgets/posts-thumbnail-medium.php:78
+msgid "Read more"
+msgstr ""
+
+#: ../layouts/blog-page-1.php:160 ../layouts/blog-page-2.php:176
+#: ../layouts/single-post-1.php:146 ../layouts/static-page-1.php:33
+msgid "Nothing Found..."
+msgstr ""
+
+#: ../layouts/error-404.php:14
+msgid "404"
+msgstr ""
+
+# @ circle
+#: ../layouts/error-404.php:17
+msgid "Page not found..."
+msgstr ""
+
+# @ circle
+#: ../layouts/error-404.php:18
+msgid ""
+"We're sorry, but we can't find the page you were looking for. It's probably "
+"some thing we've done wrong but now we know about it we'll try to fix it. In "
+"the meantime, try one of this options:"
+msgstr ""
+
+# @ circle
+#: ../layouts/error-404.php:20
+msgid "Go back to previous page"
+msgstr ""
+
+# @ circle
+#: ../layouts/error-404.php:21
+msgid "Go to homepage"
+msgstr ""
+
+#: ../layouts/single-post-1.php:82
+msgid "Share"
+msgstr ""
+
+#: ../layouts/single-post-1.php:97 ../layouts/static-page-1.php:17
+msgid "Parts"
+msgstr ""
+
+#: ../layouts/single-post-1.php:121
+msgid "Previous article"
+msgstr ""
+
+#: ../layouts/single-post-1.php:128
+msgid "Next article"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:36
+msgid "Jan"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:37
+msgid "Feb"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:38
+msgid "Mar"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:39
+msgid "Apr"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:40
+msgid "May"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:41
+msgid "Jun"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:42
+msgid "Jul"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:43
+msgid "Aug"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:44
+msgid "Sep"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:45
+msgid "Oct"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:46
+msgid "Nov"
+msgstr ""
+
+#: ../layouts/static-page-timeline.php:47
+msgid "Dec"
+msgstr ""
+
+#: ../library/ajax.php:41
+msgid " Like"
+msgstr ""
+
+#: ../library/ajax.php:43
+msgid " Likes"
+msgstr ""
+
+#: ../library/ajax.php:67
+msgid "Shortcode not found"
+msgstr ""
+
+#: ../library/ajax.php:92 ../library/ajax.php:99 ../library/ajax.php:133
+msgid "This sidebar is existing. Please enter other name."
+msgstr ""
+
+#: ../library/ajax.php:142
+#, php-format
+msgid "This sidebar is using for Template: %s - Layout: %s."
+msgstr ""
+
+# @ circle
+#: ../library/ajax.php:309
+msgid "Contact Form:"
+msgstr ""
+
+#: ../library/ajax.php:315
+msgid "Oops! errors occured. Please try again ..."
+msgstr ""
+
+# @ circle
+#: ../library/ajax.php:317
+msgid "Success! Your email address has been sent."
+msgstr ""
+
+#: ../library/ajax.php:367 ../library/classes/posttype.class.php:338
+#: ../library/frontend.php:397
+msgid "View"
+msgstr ""
+
+#: ../library/ajax.php:369 ../library/frontend.php:398
+msgid "Views"
+msgstr ""
+
+#: ../library/ajax.php:420
+msgid "Content load found"
+msgstr ""
+
+#: ../library/backend.php:51
+msgid "Facebook URL"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:52
+msgid "Twitter URL"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:53
+msgid "Dribbble URL"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:54
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../library/backend.php:55
+msgid "Flickr URL"
+msgstr ""
+
+#: ../library/backend.php:56
+msgid "Google Profile URL"
+msgstr ""
+
+#: ../library/backend.php:121
+msgid "Shortcodes"
+msgstr ""
+
+#: ../library/backend.php:122
+msgid "Grid"
+msgstr ""
+
+#: ../library/backend.php:123
+msgid "Container"
+msgstr ""
+
+#: ../library/backend.php:124
+msgid "Accordion"
+msgstr ""
+
+#: ../library/backend.php:125
+msgid "Toggle"
+msgstr ""
+
+#: ../library/backend.php:126
+msgid "Video"
+msgstr ""
+
+#: ../library/backend.php:127 ../library/ini.php:527
+msgid "Youtube"
+msgstr ""
+
+#: ../library/backend.php:128
+msgid "Vimeo"
+msgstr ""
+
+#: ../library/backend.php:129
+msgid "Mp4"
+msgstr ""
+
+#: ../library/backend.php:130
+msgid "Dropcap"
+msgstr ""
+
+#: ../library/backend.php:131 ../library/backend.php:134
+msgid "Square"
+msgstr ""
+
+#: ../library/backend.php:132
+msgid "Circle"
+msgstr ""
+
+#: ../library/backend.php:133
+msgid "Solid"
+msgstr ""
+
+#: ../library/backend.php:135
+msgid "Blockquote"
+msgstr ""
+
+#: ../library/backend.php:136
+msgid "Icon after"
+msgstr ""
+
+#: ../library/backend.php:137
+msgid "Icon before"
+msgstr ""
+
+#: ../library/backend.php:138
+msgid "Button"
+msgstr ""
+
+#: ../library/backend.php:139
+msgid "Icons"
+msgstr ""
+
+#: ../library/backend.php:140 ../library/cpanel/theme-options/contact.php:99
+msgid "Contact form"
+msgstr ""
+
+#: ../library/backend.php:142
+msgid "Please enter sidebar name!"
+msgstr ""
+
+#: ../library/backend.php:143
+msgid "Do you want to remove this sidebar?"
+msgstr ""
+
+#: ../library/backend.php:146
+msgid "Do you want to reset all setting to default?"
+msgstr ""
+
+#: ../library/backend.php:147
+msgid "Do you want to remove this custom info?"
+msgstr ""
+
+#: ../library/backend.php:150
+msgid "Media Center"
+msgstr ""
+
+#: ../library/backend.php:151
+msgid "Choose Image"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:323 ../library/backend.php:327
+#: ../library/cpanel/theme-options.php:44
+msgid "Theme Options"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:331 ../library/cpanel/sidebar-manager.php:55
+msgid "Sidebar Manage"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:331
+msgid "Sidebar Manager"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:335
+msgid "Layout Manage"
+msgstr ""
+
+# @ circle
+#: ../library/backend.php:335
+msgid "Layout Manager"
+msgstr ""
+
+#: ../library/classes/bfithumb.class.php:133
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: ../library/classes/bfithumb.class.php:252
+msgid "Image rotate failed."
+msgstr ""
+
+#: ../library/classes/bfithumb.class.php:274
+msgid "Image opacity change failed."
+msgstr ""
+
+#: ../library/classes/bfithumb.class.php:353
+msgid "Image color change failed."
+msgstr ""
+
+#: ../library/classes/bfithumb.class.php:369
+msgid "Image grayscale failed."
+msgstr ""
+
+#: ../library/classes/bfithumb.class.php:385
+msgid "Image negate failed."
+msgstr ""
+
+#: ../library/classes/layout.class.php:96
+msgid "Select the layout"
+msgstr ""
+
+# @ circle
+#: ../library/classes/layout.class.php:191 ../library/frontend.php:127
+#: ../library/ini.php:278
+msgid "Home"
+msgstr ""
+
+# @ circle
+#: ../library/classes/layout.class.php:235
+#, php-format
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: ../library/classes/layout.class.php:240
+msgid "Portfolio"
+msgstr ""
+
+#: ../library/classes/layout.class.php:245
+#, php-format
+msgid "Searched for \"%s\" return %s results"
+msgstr ""
+
+# @ circle
+#: ../library/classes/layout.class.php:269
+#: ../library/cpanel/theme-options/seo.php:161
+msgid "Page not found"
+msgstr ""
+
+#: ../library/classes/layout.class.php:271
+msgid "Latest News"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:75
+#: ../library/classes/posttype.class.php:80
+#, php-format
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:76
+msgid "Custom field updated."
+msgstr ""
+
+#: ../library/classes/posttype.class.php:77
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../library/classes/posttype.class.php:78
+#: ../library/classes/posttype.class.php:88
+#: ../library/classes/posttype.class.php:89
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: ../library/classes/posttype.class.php:79
+#, php-format
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:81
+#, php-format
+msgid "%s saved."
+msgstr ""
+
+#: ../library/classes/posttype.class.php:82
+#, php-format
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:83
+#, php-format
+msgid ""
+"%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s"
+"\">Preview %s</a>"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:83
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:84
+#, php-format
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+# @ circle
+#: ../library/classes/posttype.class.php:333
+#: ../library/classes/posttype.class.php:334
+#: ../library/classes/posttype.class.php:423
+msgid "Add New"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:336
+#: ../library/classes/posttype.class.php:424
+msgid "New"
+msgstr ""
+
+# @ circle
+#: ../library/classes/posttype.class.php:337
+#: ../library/classes/posttype.class.php:418
+msgid "All"
+msgstr ""
+
+# @ circle
+#: ../library/classes/posttype.class.php:339
+#: ../library/classes/posttype.class.php:417
+msgid "Search"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:340
+#: ../library/classes/posttype.class.php:341
+#: ../library/cpanel/theme-options/blog-posts.php:66
+#: ../library/cpanel/theme-options/elements.php:24
+#: ../library/cpanel/theme-options/general.php:175
+#: ../library/cpanel/theme-options/general.php:253
+#: ../library/cpanel/theme-options/single-post.php:185
+#: ../library/metaboxes/post.php:152
+#: ../library/shortcodes/visual/button.php:23
+msgid "No"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:340
+msgid "found"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:341
+msgid "found in Trash"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:419
+#: ../library/classes/posttype.class.php:420
+msgid "Parent"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:422
+msgid "Update"
+msgstr ""
+
+#: ../library/classes/posttype.class.php:424
+#: ../library/shortcodes/contact-form.php:129
+msgid "Name"
+msgstr ""
+
+# @ circle
+#: ../library/classes/seo.class.php:54
+#: ../library/shortcodes/system/pagination_paged.php:20
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../library/classes/ui.class.php:110
+msgid "<blockquote class=\"kopa-ui-alert\">This is abstract class</blockquote>"
+msgstr ""
+
+#: ../library/classes/ui/complex/font.ui.class.php:32
+msgid "-- None (turn off this feature) --"
+msgstr ""
+
+#: ../library/classes/ui/complex/font.ui.class.php:163
+msgid "--None--"
+msgstr ""
+
+#: ../library/classes/ui/complex/font.ui.class.php:164
+msgid "Capitalize"
+msgstr ""
+
+#: ../library/classes/ui/complex/font.ui.class.php:165
+msgid "Lower Case"
+msgstr ""
+
+#: ../library/classes/ui/complex/font.ui.class.php:166
+msgid "Upper Case"
+msgstr ""
+
+#: ../library/classes/ui/complex/font.ui.class.php:172
+msgid "Grumpy wizards make toxic brew for the evil Queen and Jack"
+msgstr ""
+
+#: ../library/classes/ui/complex/gallery.ui.class.php:25
+msgid "Config gallery"
+msgstr ""
+
+#: ../library/classes/ui/complex/icon.ui.class.php:25
+#: ../library/classes/ui/complex/sidebar.manager.ui.class.php:33
+msgid "Remove"
+msgstr ""
+
+#: ../library/classes/ui/complex/icon.ui.class.php:26
+msgid "Select"
+msgstr ""
+
+#: ../library/classes/ui/complex/layout.ui.class.php:40
+msgid "Parameter template_hierarchy is missing."
+msgstr ""
+
+#: ../library/classes/ui/complex/sidebar.manager.ui.class.php:21
+msgid ""
+"Add your sidebars below and then you can assign one of these sidebars from "
+"the individual posts, pages or archive, .."
+msgstr ""
+
+#: ../library/classes/ui/complex/sidebar.manager.ui.class.php:25
+msgid "Add sidebar"
+msgstr ""
+
+#: ../library/classes/ui/complex/sidebar.manager.ui.class.php:31
+msgid "Sidebar name"
+msgstr ""
+
+#: ../library/classes/ui/complex/sidebar.manager.ui.class.php:32
+msgid "Rename"
+msgstr ""
+
+#: ../library/classes/ui/radio/list/truefalse.radio.ui.class.php:21
+msgid "True"
+msgstr ""
+
+#: ../library/classes/ui/radio/list/truefalse.radio.ui.class.php:25
+msgid "False"
+msgstr ""
+
+#: ../library/classes/ui/select/list.page.ui.class.php:36
+msgid "-- Select Page --"
+msgstr ""
+
+#: ../library/classes/ui/select/list.post.ui.class.php:25
+#: ../library/classes/ui/select/taxonomy.ui.class.php:34
+#: ../library/classes/widget/posts.widget.class.php:228
+#: ../library/cpanel/theme-options/general.php:264
+msgid "-- Select --"
+msgstr ""
+
+#: ../library/classes/ui/text/multi.text.ui.class.php:44
+msgid "drag"
+msgstr ""
+
+#: ../library/classes/ui/text/multi.text.ui.class.php:45
+msgid "add"
+msgstr ""
+
+#: ../library/classes/ui/text/multi.text.ui.class.php:46
+msgid "del"
+msgstr ""
+
+#: ../library/classes/util.class.php:74
+#, php-format
+msgid "View all in %s"
+msgstr ""
+
+#: ../library/classes/util.class.php:450
+msgid "&nbsp;View"
+msgstr ""
+
+#: ../library/classes/util.class.php:452
+msgid "&nbsp;Views"
+msgstr ""
+
+#: ../library/classes/util.class.php:499
+msgid "&nbsp;Like"
+msgstr ""
+
+#: ../library/classes/util.class.php:501
+msgid "&nbsp;Likes"
+msgstr ""
+
+#: ../library/classes/util.class.php:524
+msgid "Comment Now"
+msgstr ""
+
+#: ../library/classes/util.class.php:527
+msgid "Comment"
+msgstr ""
+
+#: ../library/classes/util.class.php:530
+msgid "Comments"
+msgstr ""
+
+#: ../library/classes/util.class.php:555
+msgid "second"
+msgstr ""
+
+#: ../library/classes/util.class.php:556
+msgid "minute"
+msgstr ""
+
+#: ../library/classes/util.class.php:557
+msgid "hour"
+msgstr ""
+
+#: ../library/classes/util.class.php:558
+msgid "day"
+msgstr ""
+
+#: ../library/classes/util.class.php:559
+msgid "week"
+msgstr ""
+
+#: ../library/classes/util.class.php:560
+msgid "month"
+msgstr ""
+
+#: ../library/classes/util.class.php:561
+msgid "year"
+msgstr ""
+
+#: ../library/classes/util.class.php:562
+msgid "decade"
+msgstr ""
+
+#: ../library/classes/util.class.php:571
+msgid "ago"
+msgstr ""
+
+#: ../library/classes/util.class.php:574
+msgid "from now"
+msgstr ""
+
+#: ../library/classes/util.class.php:584
+msgid "s"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:29
+#: ../library/cpanel/theme-options/elements.php:56
+#: ../library/cpanel/theme-options/seo.php:63
+#: ../library/cpanel/theme-options/shortcode.php:95
+#: ../library/cpanel/theme-options/typography.php:84
+#: ../library/shortcodes/visual/container.php:27
+#: ../library/widgets/advertisement.php:24
+#: ../library/widgets/contact-infomation.php:23
+#: ../library/widgets/flickr.php:23 ../library/widgets/newsletter.php:23
+#: ../library/widgets/recent-comments.php:23 ../library/widgets/twitter.php:26
+msgid "Title"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:39
+#: ../library/cpanel/theme-options/general.php:295
+#: ../library/cpanel/theme-options/single-post.php:214
+msgid "Number of posts"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:49
+msgid "Excerpt character limit"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:59
+msgid "Is hide title"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:70
+msgid "Is hide excerpt"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:81
+#: ../library/widgets/recent-comments.php:74
+msgid "Is hide created date"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:92
+msgid "Is hide comments"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:103
+msgid "Is hide views"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:114
+msgid "Is hide likes"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:125
+msgid "Is hide readmore"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:142
+#: ../library/cpanel/theme-options/general.php:212
+#: ../library/cpanel/theme-options/single-post.php:50
+msgid "Categories"
+msgstr ""
+
+# @ circle
+#: ../library/classes/widget/posts.widget.class.php:156
+#: ../library/classes/widget/posts.widget.class.php:170
+#: ../library/cpanel/theme-options/general.php:224
+#: ../library/cpanel/theme-options/single-post.php:61
+msgid "Tags"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:184
+msgid "Post Format"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:198
+msgid "Order by"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:201
+msgid "Latest news"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:202
+msgid "Popular by view count"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:203
+msgid "Most comments"
+msgstr ""
+
+# @ circle
+#: ../library/classes/widget/posts.widget.class.php:204
+msgid "Random"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:214
+msgid "Is combine condition by <i>Tags</i>, <i>Categories</i>, <i>Format</i>"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:225
+#: ../library/cpanel/theme-options/general.php:261
+msgid "Timestamp (ago)"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:229
+#: ../library/cpanel/theme-options/general.php:265
+msgid "1 week"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:230
+#: ../library/cpanel/theme-options/general.php:266
+msgid "2 weeks"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:231
+#: ../library/cpanel/theme-options/general.php:267
+msgid "3 weeks"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:232
+#: ../library/cpanel/theme-options/general.php:268
+msgid "1 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:233
+#: ../library/cpanel/theme-options/general.php:269
+msgid "2 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:234
+#: ../library/cpanel/theme-options/general.php:270
+msgid "3 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:235
+#: ../library/cpanel/theme-options/general.php:271
+msgid "4 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:236
+#: ../library/cpanel/theme-options/general.php:272
+msgid "5 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:237
+#: ../library/cpanel/theme-options/general.php:273
+msgid "6 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:238
+#: ../library/cpanel/theme-options/general.php:274
+msgid "7 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:239
+#: ../library/cpanel/theme-options/general.php:275
+msgid "8 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:240
+#: ../library/cpanel/theme-options/general.php:276
+msgid "9 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:241
+#: ../library/cpanel/theme-options/general.php:277
+msgid "10 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:242
+#: ../library/cpanel/theme-options/general.php:278
+msgid "11 months"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:243
+#: ../library/cpanel/theme-options/general.php:279
+msgid "1 year"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:244
+#: ../library/cpanel/theme-options/general.php:280
+msgid "2 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:245
+#: ../library/cpanel/theme-options/general.php:281
+msgid "3 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:246
+#: ../library/cpanel/theme-options/general.php:282
+msgid "4 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:247
+#: ../library/cpanel/theme-options/general.php:283
+msgid "5 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:248
+#: ../library/cpanel/theme-options/general.php:284
+msgid "6 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:249
+#: ../library/cpanel/theme-options/general.php:285
+msgid "7 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:250
+#: ../library/cpanel/theme-options/general.php:286
+msgid "8 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:251
+#: ../library/cpanel/theme-options/general.php:287
+msgid "9 years"
+msgstr ""
+
+#: ../library/classes/widget/posts.widget.class.php:252
+#: ../library/cpanel/theme-options/general.php:288
+msgid "10 years"
+msgstr ""
+
+#: ../library/cpanel/layout-manager.php:33
+msgid "Layout & Sidebar Manager"
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/layout-manager.php:34
+#: ../library/cpanel/sidebar-manager.php:56
+#: ../library/cpanel/theme-options.php:45
+msgid "Visit author URL:"
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/layout-manager.php:39
+#: ../library/cpanel/layout-manager.php:73
+#: ../library/cpanel/theme-options.php:50
+#: ../library/cpanel/theme-options.php:99
+msgid "Save"
+msgstr ""
+
+#: ../library/cpanel/sidebar-manager.php:23
+msgid "Sidebars"
+msgstr ""
+
+#: ../library/cpanel/theme-options.php:39
+msgid "Reset"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:13
+msgid "Blog post"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:20
+msgid "For each article in list, show"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:26
+msgid "Excerpt"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:30
+msgid "Full content"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:34
+msgid "Limit number characters"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:62
+msgid "Display content formatted"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:64
+msgid ""
+"If value is <code>Yes</code>, thumbnails has been replaced by video, audio "
+"or gallery shortcode"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:65
+#: ../library/cpanel/theme-options/elements.php:23
+#: ../library/cpanel/theme-options/general.php:174
+#: ../library/cpanel/theme-options/general.php:252
+#: ../library/cpanel/theme-options/single-post.php:184
+#: ../library/metaboxes/post.php:151
+#: ../library/shortcodes/visual/button.php:22
+msgid "Yes"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:74
+msgid "Created Date"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:76
+#: ../library/cpanel/theme-options/blog-posts.php:87
+#: ../library/cpanel/theme-options/blog-posts.php:98
+#: ../library/cpanel/theme-options/blog-posts.php:110
+#: ../library/cpanel/theme-options/blog-posts.php:121
+#: ../library/cpanel/theme-options/elements.php:58
+#: ../library/cpanel/theme-options/elements.php:67
+#: ../library/cpanel/theme-options/general.php:136
+#: ../library/cpanel/theme-options/general.php:354
+#: ../library/cpanel/theme-options/shortcode.php:26
+#: ../library/cpanel/theme-options/shortcode.php:71
+#: ../library/cpanel/theme-options/shortcode.php:97
+#: ../library/cpanel/theme-options/shortcode.php:107
+#: ../library/cpanel/theme-options/shortcode.php:117
+#: ../library/cpanel/theme-options/single-post.php:29
+#: ../library/cpanel/theme-options/single-post.php:41
+#: ../library/cpanel/theme-options/single-post.php:52
+#: ../library/cpanel/theme-options/single-post.php:63
+#: ../library/cpanel/theme-options/single-post.php:74
+#: ../library/cpanel/theme-options/single-post.php:85
+#: ../library/cpanel/theme-options/single-post.php:96
+#: ../library/cpanel/theme-options/single-post.php:107
+#: ../library/cpanel/theme-options/single-post.php:118
+#: ../library/cpanel/theme-options/single-post.php:140
+#: ../library/cpanel/theme-options/single-post.php:151
+#: ../library/cpanel/theme-options/single-post.php:173
+#: ../library/cpanel/theme-options/single-post.php:240
+msgid "Show"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:77
+#: ../library/cpanel/theme-options/blog-posts.php:88
+#: ../library/cpanel/theme-options/blog-posts.php:99
+#: ../library/cpanel/theme-options/blog-posts.php:111
+#: ../library/cpanel/theme-options/blog-posts.php:122
+#: ../library/cpanel/theme-options/elements.php:59
+#: ../library/cpanel/theme-options/elements.php:68
+#: ../library/cpanel/theme-options/general.php:137
+#: ../library/cpanel/theme-options/general.php:355
+#: ../library/cpanel/theme-options/shortcode.php:27
+#: ../library/cpanel/theme-options/shortcode.php:72
+#: ../library/cpanel/theme-options/shortcode.php:98
+#: ../library/cpanel/theme-options/shortcode.php:108
+#: ../library/cpanel/theme-options/shortcode.php:118
+#: ../library/cpanel/theme-options/single-post.php:30
+#: ../library/cpanel/theme-options/single-post.php:42
+#: ../library/cpanel/theme-options/single-post.php:53
+#: ../library/cpanel/theme-options/single-post.php:64
+#: ../library/cpanel/theme-options/single-post.php:75
+#: ../library/cpanel/theme-options/single-post.php:86
+#: ../library/cpanel/theme-options/single-post.php:97
+#: ../library/cpanel/theme-options/single-post.php:108
+#: ../library/cpanel/theme-options/single-post.php:119
+#: ../library/cpanel/theme-options/single-post.php:141
+#: ../library/cpanel/theme-options/single-post.php:152
+#: ../library/cpanel/theme-options/single-post.php:174
+#: ../library/cpanel/theme-options/single-post.php:241
+msgid "Hide"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:85
+#: ../library/cpanel/theme-options/single-post.php:83
+#: ../library/widgets/recent-comments.php:33
+msgid "Number of comments"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:96
+#: ../library/cpanel/theme-options/single-post.php:94
+msgid "Number of views"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:108
+#: ../library/cpanel/theme-options/single-post.php:105
+msgid "Number of likes"
+msgstr ""
+
+#: ../library/cpanel/theme-options/blog-posts.php:119
+msgid "Read more button"
+msgstr ""
+
+#: ../library/cpanel/theme-options/color-scheme.php:14
+msgid "Pre defined colors"
+msgstr ""
+
+#: ../library/cpanel/theme-options/color-scheme.php:44
+msgid "Custom colors"
+msgstr ""
+
+#: ../library/cpanel/theme-options/color-scheme.php:52
+msgid "Primary color"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:14
+msgid "Contact Infomation"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:21
+#: ../library/cpanel/theme-options/contact.php:96
+msgid "Caption"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:24
+msgid "Contact information"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:30
+#: ../library/cpanel/theme-options/contact.php:105
+msgid "Descripton"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:42
+#: ../library/shortcodes/contact-form.php:87
+msgid "Phone number"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:49
+#: ../library/shortcodes/contact-form.php:97
+msgid "Fax number"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:56
+msgid "Email(s)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:63
+#: ../library/shortcodes/contact-form.php:77
+msgid "Address"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:70
+msgid "Google Map"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:71
+msgid "How to get it? Click"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:71
+msgid "here"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:78
+msgid "Gmap Marker"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:79
+msgid ""
+"You can download, and edit marker image from PSD file. Download <a href="
+"\"https://db.tt/qssyQ4pY\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:89
+msgid "Contact Form"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:117
+msgid "reCaptcha"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:124
+msgid "<code>SKIN</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:125
+msgid ""
+"To view skins preview, click <a target=\"_blank\" href=\"https://db.tt/"
+"cYvusoxp\">here</a>.<br/>To create your public & private key, click <a "
+"target=\"_blank\" href=\"http://www.google.com/recaptcha/whyrecaptcha"
+"\">here</a>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:129
+msgid "-- Hide --"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:130
+msgid "Clean"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:131
+msgid "Red"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:132
+msgid "White"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:133
+msgid "Black glass"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:150
+msgid "<code>PUBLIC KEY</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:161
+msgid "<code>PRIVATE KEY</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/contact.php:172
+msgid "Mail Reply Template"
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/theme-options/custom-css.php:13 ../library/ini.php:251
+msgid "Custom CSS"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:13
+msgid "Lightbox (Pretty Photo)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:20
+msgid "Play video on lighbox"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:30
+msgid "Skin"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:34
+msgid "Default"
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/theme-options/elements.php:35 ../library/ini.php:367
+msgid "Facebook"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:36
+msgid "Dark rounded"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:37
+msgid "Dark square"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:38
+msgid "Light rounded"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:39
+msgid "Light square"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:46
+msgid "Modal mode"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:47
+msgid "If set to Yes, only the close button will close the window"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:49
+#: ../library/cpanel/theme-options/general.php:343
+#: ../library/cpanel/theme-options/seo.php:29
+#: ../library/cpanel/theme-options/shortcode.php:61
+msgid "Enable"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:50
+#: ../library/cpanel/theme-options/general.php:344
+#: ../library/cpanel/theme-options/seo.php:30
+#: ../library/cpanel/theme-options/shortcode.php:62
+msgid "Disable"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:65
+msgid "Sharing with Facebook, Twitter"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:74
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../library/cpanel/theme-options/elements.php:75
+msgid "Value between 0% and 100%"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:19
+msgid "Logo - Favicon - Apple Icon"
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/theme-options/general.php:26
+msgid "Logo"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:36
+#: ../library/cpanel/theme-options/typography.php:117
+msgid "Top"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:37
+msgid "Margin:"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:47
+#: ../library/cpanel/theme-options/typography.php:133
+msgid "Bottom"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:58
+msgid "Left"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:69
+msgid "Right"
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/theme-options/general.php:80
+msgid "Favicon"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:88
+msgid "Apple Icon"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:89
+msgid ""
+"Upload your <a target=\"_blank\" href=\"https://developer.apple.com/library/"
+"ios/documentation/AppleApplications/Reference/SafariWebContent/"
+"ConfiguringWebApplications/ConfiguringWebApplications.html\">apple icon</a> "
+"(152x152). This image will be crop to multi size for iPhone(retina), "
+"iPad(retina)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:99
+msgid "Header"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:108
+msgid "Header Style"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:110
+msgid "Top Menu - Logo - Top Banner - (ALLOW CUSTOM BACKGROUND COLOR)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:111
+msgid "Top Menu - Logo - Primary Menu - Search Box - (NO TOP-BANNER)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:123
+msgid "Header background color"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:134
+msgid "Search form"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:147
+msgid "Top Banner"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:154 ../library/frontend.php:778
+msgid "Image"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:162
+#: ../library/widgets/advertisement.php:69
+msgid "Link to"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:172
+msgid "Open on new Tab"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:181
+msgid "Custom content"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:182
+msgid "E.g. Google adsense code, or your custom HTML,..."
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:197
+msgid "Headline"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:204
+msgid "Prefix"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:206
+msgid "Breaking News"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:236
+msgid "Post formats"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:250
+msgid "Relation"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:251
+msgid ""
+"Combine condition by <code>Tags</code> <code>Categories</code> and "
+"<code>Format</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:296
+msgid "Select <code>0</code> to hide headline."
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/theme-options/general.php:310
+msgid "Footer"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:317
+msgid "Footer information"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:318
+msgid ""
+"Enter the content you want to display in your footer (e.g. copyright text)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:332
+msgid "System"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:341
+msgid "Custom thumbnail for each post"
+msgstr ""
+
+#: ../library/cpanel/theme-options/general.php:352
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:17 ../library/metaboxes/page.php:75
+#: ../library/metaboxes/post.php:116
+msgid "SEO - Search engine optimization"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:27
+msgid "Status"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:28
+msgid "If you using any SEO Plugin, please disable this option."
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:40
+msgid "Your site name"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:41
+msgid "Your site description"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:42
+msgid "Type of term. E.g. category, post_tag"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:43
+msgid "Name of category or tag"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:44
+msgid "Number of current page"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:45
+msgid "Name of current page"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:46
+msgid "Name of current post"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:47
+msgid "Author of current post(page)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:48
+msgid "Categories of current post"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:49
+msgid "Tags of current post"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:50
+msgid "Name of current author (author page)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:51
+msgid "Search keyword"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:52
+msgid "Number of search results"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:73
+#: ../library/cpanel/theme-options/seo.php:85
+msgid "<code>HOME</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:77
+msgid "Front Page (it's static page)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:89
+msgid "Blog posts (display latest posts with pagination)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:97
+msgid "<code>TAXONOMY</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:101
+msgid "Category or Tag (taxonomy - display post lists with pagination)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:109
+msgid "<code>PAGE</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:113 ../library/ini.php:305
+msgid "Static Page"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:121
+msgid "<code>POST</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:125
+msgid "Single Post (article)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:133
+msgid "<code>AUTHOR</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:137
+msgid "Author Page (display all posts created by an author)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:145
+msgid "<code>SEARCH</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:149
+msgid "Search Page"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:157
+msgid "<code>404</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:170
+#: ../library/metaboxes/page.php:53 ../library/metaboxes/post.php:94
+#: ../library/metaboxes/post.php:186
+msgid "Keywords"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:171
+msgid ""
+"Enter your website keyword(s), separated by comma.<br/>This is global "
+"keywords, for each post, page, category, tag,.. you can manual append other "
+"keyword."
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:183
+#: ../library/metaboxes/page.php:65 ../library/metaboxes/post.php:106
+#: ../library/metaboxes/post.php:198
+#: ../library/widgets/contact-infomation.php:33
+#: ../library/widgets/newsletter.php:42
+msgid "Description"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:184
+msgid ""
+"Enter your website description.<br/>This is global description, It will be "
+"replace by manual description from post, page, category, tag,.."
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:196
+msgid "Facebook Open Graph Image"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:197
+msgid "<br/>It's default value for \"og:image.\""
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:205
+msgid "Facebook Open Graph Type"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:206
+msgid ""
+"<br/>Enter your custom object type OR set default value is \"website\".\""
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:214
+msgid "Facebook Page ID"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:223
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:232
+msgid "Facebook Admins"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:241
+msgid "Google profile"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:242
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Link to your Google+ profile using rel="
+"\"author\"</a>."
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:250
+msgid "Twitter cards"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:251
+msgid "Please enter your twitter name with format <code>@your_name</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:261
+msgid "Google analytics"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:270
+msgid ""
+"Enter <a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google "
+"Analytics</a> code. This should be something like: <code>&ltscript type="
+"\"text/javascript\"&gt;  ...  &lt;/script&gt;</code>"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:288
+msgid "Website Verification Services"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:295
+msgid "Google Webmaster Tools"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:297
+#, php-format
+msgid ""
+"Enter your meta key \"content\" value to verify your website with <a target="
+"\"_blank\" href=\"https://www.google.com/webmasters/tools/\">Google "
+"Webmaster Tools</a>.<br/>Example:<br/>%s"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:304
+msgid "Bing Webmaster Center"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:306
+#, php-format
+msgid ""
+"Enter your meta key \"content\" value to verify your website with <a target="
+"\"_blank\" href=\"http://www.bing.com/webmaster/\">Bing Webmaster Center</a>."
+"<br/>Example:<br/>%s"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:313
+msgid "Pinterest Site Verification"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:315
+#, php-format
+msgid ""
+"Enter your meta key \"content\" value to verify your website with <a target="
+"\"_blank\" href=\"https://pinterest.com/website/verify/\">Pinterest Site "
+"Verification</a>.<br/>Example:<br/>%s"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:322
+msgid "Yandex Webmaster"
+msgstr ""
+
+#: ../library/cpanel/theme-options/seo.php:324
+#, php-format
+msgid ""
+"Enter your meta key \"content\" value to verify your website with <a target="
+"\"_blank\" href=\"https://webmaster.yandex.com/sites/\">Yandex Webmaster</a>."
+"<br/>Example:<br/>%s"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:17
+msgid "Youtube (shortcode)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:24
+msgid "Video information"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:28
+msgid ""
+"If you set the parameter value to <code>Hide</code>, then the player will "
+"not display information like the video title and uploader before the video "
+"starts playing."
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:34
+msgid "Theme"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:38
+msgid "The Dark"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:39
+msgid "The Light"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:46
+msgid "Coltrols"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:50
+msgid "Player controls DO NOT display in the player."
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:51
+msgid "Player controls display in the player"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:52
+msgid ""
+"Player controls ONLY display in the player (after the user initiates the "
+"video playback)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:59
+msgid "HD playback by default"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:63
+msgid ""
+"This has no effect on the Chromeless Player.<br/> This also has no effect if "
+"an HD version of the video is not available."
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:69
+msgid "Related videos"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:73
+msgid ""
+"This option indicates whether the player should show related videos when "
+"playback of the initial video ends"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:80
+msgid "Vimeo (shortcode)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:87
+msgid "Color"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:99
+msgid "Show the title on the video"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:105
+msgid "Byline"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:109
+msgid "Show the user's byline on the video"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:115
+msgid "Portrait"
+msgstr ""
+
+#: ../library/cpanel/theme-options/shortcode.php:119
+msgid "Show the user's portrait on the video"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:18
+msgid "Metadata"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:27
+msgid "Thumbnail (standard post)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:38
+msgid "Thumbnail (other format)"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:39
+msgid ""
+"Other format e.g. <code>Video</code> <code>Audio</code> <code>Gallery</code> "
+"<code>Aside</code> <code>Quote</code> <code>Status</code> ..."
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:72
+msgid "Created date"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:116
+msgid "Share buttons"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:129 ../library/ini.php:333
+msgid "Author"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:138
+msgid "Author information"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:149
+msgid "Author social links"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:162
+msgid "Previous & Next Post Links"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:171
+msgid "Prev & next post links"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:182
+msgid "Is same category"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:194
+msgid "Related Post"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:203
+msgid "Get by"
+msgstr ""
+
+# @ circle
+# @ taxonomy singular name
+#: ../library/cpanel/theme-options/single-post.php:206
+#: ../library/shortcodes/system/term_type.php:21
+msgid "Category"
+msgstr ""
+
+# @ circle
+# @ taxonomy singular name
+#: ../library/cpanel/theme-options/single-post.php:207
+#: ../library/shortcodes/system/term_type.php:24
+msgid "Tag"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:215
+msgid "Select <code>0</code> to hide this section."
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:229
+msgid "Comment System"
+msgstr ""
+
+#: ../library/cpanel/theme-options/single-post.php:238
+msgid "Default comment system"
+msgstr ""
+
+# @ circle
+#: ../library/cpanel/theme-options/social-links.php:13 ../library/ini.php:236
+msgid "Social Links"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:34
+msgid "Common"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:51
+msgid "Body"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:59
+msgid "Widget title"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:67
+msgid "Post | Page"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:92
+msgid "Content"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:100
+msgid "Navigation"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:125
+msgid "Primary"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:141
+msgid "Heading"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:158
+msgid "H1"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:166
+msgid "H2"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:174
+msgid "H3"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:182
+msgid "H4"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:190
+msgid "H5"
+msgstr ""
+
+#: ../library/cpanel/theme-options/typography.php:198
+msgid "H6"
+msgstr ""
+
+#: ../library/frontend.php:22
+msgid "Primary Menu"
+msgstr ""
+
+#: ../library/frontend.php:23
+msgid "Bottom Menu"
+msgstr ""
+
+#: ../library/frontend.php:395
+msgid "Load more"
+msgstr ""
+
+#: ../library/frontend.php:396
+msgid "Loading..."
+msgstr ""
+
+#: ../library/frontend.php:401
+msgid "Checking"
+msgstr ""
+
+# @ circle
+#: ../library/frontend.php:402
+msgid "Submit"
+msgstr ""
+
+# @ circle
+#: ../library/frontend.php:403
+msgid "Sending..."
+msgstr ""
+
+#: ../library/frontend.php:406
+msgid "Your captcha is incorrect. Please try again"
+msgstr ""
+
+#: ../library/frontend.php:407
+msgid "Captcha is required"
+msgstr ""
+
+#: ../library/frontend.php:410
+msgid "Please enter your name"
+msgstr ""
+
+#: ../library/frontend.php:411 ../library/frontend.php:423
+msgid "At least {0} characters required"
+msgstr ""
+
+#: ../library/frontend.php:414
+msgid "Please enter your email"
+msgstr ""
+
+#: ../library/frontend.php:415
+msgid "Please enter a valid email"
+msgstr ""
+
+#: ../library/frontend.php:418
+msgid "Please enter your url"
+msgstr ""
+
+#: ../library/frontend.php:419
+msgid "Please enter a valid url"
+msgstr ""
+
+#: ../library/frontend.php:422
+msgid "Please enter a message"
+msgstr ""
+
+#: ../library/frontend.php:569
+msgid "Related articles"
+msgstr ""
+
+#: ../library/frontend.php:630
+msgid "About the author"
+msgstr ""
+
+#: ../library/frontend.php:748
+msgid "Parallax Background"
+msgstr ""
+
+#: ../library/frontend.php:765
+msgid "Opacity (only for background color)"
+msgstr ""
+
+#: ../library/frontend.php:787
+msgid "Type"
+msgstr ""
+
+#: ../library/frontend.php:790
+msgid "Repeat"
+msgstr ""
+
+#: ../library/frontend.php:791
+msgid "No Repeat"
+msgstr ""
+
+#: ../library/frontend.php:792
+msgid "Cover"
+msgstr ""
+
+#: ../library/frontend.php:801
+msgid "Parallax height"
+msgstr ""
+
+#: ../library/frontend.php:802
+msgid "Enter <code>0</code> to disable parallax."
+msgstr ""
+
+#: ../library/ini.php:15
+msgid "Widget Area 1"
+msgstr ""
+
+#: ../library/ini.php:16
+msgid "Widget Area 2"
+msgstr ""
+
+#: ../library/ini.php:17
+msgid "Widget Area 3"
+msgstr ""
+
+#: ../library/ini.php:18
+msgid "Widget Area 4"
+msgstr ""
+
+#: ../library/ini.php:19
+msgid "Widget Area 5"
+msgstr ""
+
+#: ../library/ini.php:20
+msgid "Widget Area 6"
+msgstr ""
+
+#: ../library/ini.php:21
+msgid "Widget Area 7"
+msgstr ""
+
+#: ../library/ini.php:22
+msgid "Widget Area 8"
+msgstr ""
+
+#: ../library/ini.php:23
+msgid "Widget Area 9"
+msgstr ""
+
+#: ../library/ini.php:24
+msgid "Widget Area 10"
+msgstr ""
+
+#: ../library/ini.php:25
+msgid "Widget Area 11"
+msgstr ""
+
+#: ../library/ini.php:26
+msgid "Widget Area 12"
+msgstr ""
+
+#: ../library/ini.php:40
+msgid "Front Page 1"
+msgstr ""
+
+#: ../library/ini.php:55
+msgid "Front Page 2"
+msgstr ""
+
+#: ../library/ini.php:69
+msgid "Front Page 3"
+msgstr ""
+
+#: ../library/ini.php:87
+msgid "Blog Page 1 (One Col)"
+msgstr ""
+
+#: ../library/ini.php:98
+msgid "Blog Page 2 (Two Cols)"
+msgstr ""
+
+#: ../library/ini.php:109
+msgid "Single Post 1"
+msgstr ""
+
+#: ../library/ini.php:121
+msgid "Static Page 1"
+msgstr ""
+
+#: ../library/ini.php:132
+msgid "Contact Page"
+msgstr ""
+
+#: ../library/ini.php:143
+msgid "Static Page - Timeline"
+msgstr ""
+
+#: ../library/ini.php:155
+msgid "Error 404"
+msgstr ""
+
+#: ../library/ini.php:175
+msgid "-- None --"
+msgstr ""
+
+#: ../library/ini.php:176
+msgid "Sidebar 1"
+msgstr ""
+
+#: ../library/ini.php:177
+msgid "Sidebar 2"
+msgstr ""
+
+#: ../library/ini.php:178
+msgid "Sidebar 3"
+msgstr ""
+
+#: ../library/ini.php:179
+msgid "Sidebar 4"
+msgstr ""
+
+#: ../library/ini.php:180
+msgid "Sidebar 5"
+msgstr ""
+
+#: ../library/ini.php:181
+msgid "Sidebar 6"
+msgstr ""
+
+#: ../library/ini.php:182
+msgid "Sidebar 7"
+msgstr ""
+
+#: ../library/ini.php:183
+msgid "Sidebar 8"
+msgstr ""
+
+#: ../library/ini.php:184
+msgid "Sidebar 9"
+msgstr ""
+
+#: ../library/ini.php:185
+msgid "Sidebar 10"
+msgstr ""
+
+#: ../library/ini.php:186
+msgid "Sidebar 11"
+msgstr ""
+
+#: ../library/ini.php:187
+msgid "Sidebar 12"
+msgstr ""
+
+# @ circle
+#: ../library/ini.php:216
+msgid "General Setting"
+msgstr ""
+
+#: ../library/ini.php:221
+msgid "Blog Posts"
+msgstr ""
+
+# @ circle
+#: ../library/ini.php:226 ../library/ini.php:298
+msgid "Single Post"
+msgstr ""
+
+#: ../library/ini.php:231
+msgid "Contact"
+msgstr ""
+
+#: ../library/ini.php:241
+msgid "Typography"
+msgstr ""
+
+#: ../library/ini.php:246
+msgid "Color Scheme"
+msgstr ""
+
+#: ../library/ini.php:256
+msgid "Shortcode"
+msgstr ""
+
+#: ../library/ini.php:261
+msgid "SEO"
+msgstr ""
+
+#: ../library/ini.php:286
+msgid "Front Page"
+msgstr ""
+
+#: ../library/ini.php:317
+msgid "Archive"
+msgstr ""
+
+#: ../library/ini.php:325
+msgid "Category | Tag"
+msgstr ""
+
+#: ../library/ini.php:341
+msgid "Search Result"
+msgstr ""
+
+#: ../library/ini.php:349
+msgid "404 Page not found"
+msgstr ""
+
+#: ../library/ini.php:372
+msgid "Dribbble"
+msgstr ""
+
+#: ../library/ini.php:377
+msgid "Linkedin"
+msgstr ""
+
+#: ../library/ini.php:382
+msgid "Pinterest"
+msgstr ""
+
+#: ../library/ini.php:387
+msgid "Google plus"
+msgstr ""
+
+# @ circle
+#: ../library/ini.php:392
+msgid "Twitter"
+msgstr ""
+
+#: ../library/ini.php:397
+msgid "Adn"
+msgstr ""
+
+#: ../library/ini.php:402
+msgid "Android"
+msgstr ""
+
+#: ../library/ini.php:407
+msgid "Apple"
+msgstr ""
+
+#: ../library/ini.php:412
+msgid "Bitbucket"
+msgstr ""
+
+#: ../library/ini.php:417
+msgid "Btc"
+msgstr ""
+
+#: ../library/ini.php:422
+msgid "Css3"
+msgstr ""
+
+#: ../library/ini.php:427
+msgid "Dropbox"
+msgstr ""
+
+#: ../library/ini.php:432
+msgid "Flickr"
+msgstr ""
+
+#: ../library/ini.php:437
+msgid "Foursquare"
+msgstr ""
+
+#: ../library/ini.php:442
+msgid "Github"
+msgstr ""
+
+#: ../library/ini.php:447
+msgid "Gittip"
+msgstr ""
+
+#: ../library/ini.php:452
+msgid "Html5"
+msgstr ""
+
+#: ../library/ini.php:457
+msgid "Instagram"
+msgstr ""
+
+#: ../library/ini.php:462
+msgid "Linux"
+msgstr ""
+
+#: ../library/ini.php:467
+msgid "Pagelines"
+msgstr ""
+
+#: ../library/ini.php:472
+msgid "Maxcdn"
+msgstr ""
+
+#: ../library/ini.php:477
+msgid "Renren"
+msgstr ""
+
+#: ../library/ini.php:482
+msgid "Skype"
+msgstr ""
+
+#: ../library/ini.php:487
+msgid "Stack exchange"
+msgstr ""
+
+#: ../library/ini.php:492
+msgid "Stack overflow"
+msgstr ""
+
+#: ../library/ini.php:497
+msgid "Trello"
+msgstr ""
+
+#: ../library/ini.php:502
+msgid "Tumblr"
+msgstr ""
+
+#: ../library/ini.php:507
+msgid "vk"
+msgstr ""
+
+#: ../library/ini.php:512
+msgid "Weibo"
+msgstr ""
+
+#: ../library/ini.php:517
+msgid "Windows"
+msgstr ""
+
+#: ../library/ini.php:522
+msgid "Xing"
+msgstr ""
+
+# @ circle
+#: ../library/ini.php:532
+msgid "RSS"
+msgstr ""
+
+#: ../library/ini.php:535
+msgid ""
+"Display the RSS feed button with the default RSS feed or enter a custom feed "
+"above. <br/>Enter <code>HIDE</code> if you want to hide it"
+msgstr ""
+
+#: ../library/ini.php:551
+msgid "80 x 80 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:555
+msgid "Widget: posts thubnail big and small<br/>Widget: posts thumbnail small"
+msgstr ""
+
+#: ../library/ini.php:562
+msgid "277 x 211 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:566
+msgid "Widget: posts carousel multi<br/>Widget: posts carousel scroll"
+msgstr ""
+
+#: ../library/ini.php:573
+msgid "272 x 181 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:577
+msgid ""
+"Widget: posts carousel two cols<br/>Widget: posts carousel big and small"
+msgstr ""
+
+#: ../library/ini.php:583
+msgid "182 x 128 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:587
+msgid "Widget: posts carousel thumb"
+msgstr ""
+
+#: ../library/ini.php:593
+msgid "503 x 363 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:597
+msgid "Widget: posts carousel two cols"
+msgstr ""
+
+#: ../library/ini.php:603
+msgid "300 x 203 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:607
+msgid "Widget: posts carousel single"
+msgstr ""
+
+#: ../library/ini.php:613
+msgid "398 x 398 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:617
+msgid "Widget: posts thumbnail medium"
+msgstr ""
+
+#: ../library/ini.php:623
+msgid "350 x auto (pixel)"
+msgstr ""
+
+#: ../library/ini.php:627
+msgid "Widget: posts ajax filter"
+msgstr ""
+
+#: ../library/ini.php:633
+msgid "287 x 226 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:637
+msgid "Shortcode: gallery (small)"
+msgstr ""
+
+#: ../library/ini.php:646
+msgid "785 x 442 (pixel)"
+msgstr ""
+
+#: ../library/ini.php:650 ../library/ini.php:689
+msgid ""
+"Layout: blog page 1<br/>Layout: blog page 2<br/>Layout: blog page 3<br/"
+">Layout: blog timeline<br/>Layout: single post 1<br/>Layout: single post 2"
+msgstr ""
+
+#: ../library/ini.php:656
+msgid "800 x 450(pixel)"
+msgstr ""
+
+#: ../library/ini.php:660 ../library/ini.php:670
+msgid "Shortcode: gallery (big)"
+msgstr ""
+
+#: ../library/ini.php:666
+msgid "940 x 476(pixel)"
+msgstr ""
+
+#: ../library/ini.php:676
+msgid "847 x 467(pixel)"
+msgstr ""
+
+#: ../library/ini.php:680
+msgid "Slider fluid"
+msgstr ""
+
+#: ../library/ini.php:685
+msgid "340 x 230 (pixel)"
+msgstr ""
+
+#: ../library/metaboxes/page.php:25
+msgid "Is use custom layout for this page"
+msgstr ""
+
+#: ../library/metaboxes/page.php:41 ../library/metaboxes/post.php:45
+msgid "Layout & Sidebar Options"
+msgstr ""
+
+#: ../library/metaboxes/page.php:54
+msgid "Enter keyword(s) of current page, separated by comma."
+msgstr ""
+
+#: ../library/metaboxes/page.php:66
+msgid "Enter description of current page"
+msgstr ""
+
+#: ../library/metaboxes/post.php:29 ../library/metaboxes/post.php:162
+msgid "Is use custom layout for this post"
+msgstr ""
+
+#: ../library/metaboxes/post.php:62
+msgid "Is use custom thumbnail for this post"
+msgstr ""
+
+#: ../library/metaboxes/post.php:81
+msgid "Custom Thumbnails"
+msgstr ""
+
+#: ../library/metaboxes/post.php:95
+msgid "Enter keyword(s) of current post, separated by comma."
+msgstr ""
+
+#: ../library/metaboxes/post.php:107
+msgid "Enter description of current post"
+msgstr ""
+
+#: ../library/metaboxes/post.php:123
+msgid "-- Inherit setting from Reading Settings --"
+msgstr ""
+
+#: ../library/metaboxes/post.php:124
+msgid "Display all posts on a page"
+msgstr ""
+
+#: ../library/metaboxes/post.php:136
+msgid "Posts per page"
+msgstr ""
+
+#: ../library/metaboxes/post.php:147
+msgid "Is display content formatted"
+msgstr ""
+
+#: ../library/metaboxes/post.php:150
+msgid "-- Inherit setting from Theme Options --"
+msgstr ""
+
+# @ circle
+#: ../library/shortcodes/contact-form.php:107
+#: ../library/shortcodes/contact-form.php:135
+msgid "Email"
+msgstr ""
+
+#: ../library/shortcodes/contact-form.php:141
+msgid "Your message"
+msgstr ""
+
+# @ circle
+#: ../library/shortcodes/contact-form.php:155
+msgid "Send"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:4
+msgid "Button builder"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:9
+msgid "Button Text"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:14
+msgid "Button Link"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:19
+msgid "Open link on new tab"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:29
+msgid "Button Style"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:36
+#: ../library/shortcodes/visual/button.php:43
+msgid "Small"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:52
+#: ../library/shortcodes/visual/button.php:59
+msgid "Medium"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:68
+#: ../library/shortcodes/visual/button.php:75
+msgid "Big"
+msgstr ""
+
+#: ../library/shortcodes/visual/button.php:85
+#: ../library/shortcodes/visual/container.php:39
+msgid "Insert"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:4
+msgid "Container Builder"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:9
+msgid "Tab style"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:12
+msgid "Horizontal"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:13
+msgid "Vertical"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:19
+msgid "Width of tab title (only vertical)"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:29
+msgid "Enter your content"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:32
+msgid "remove"
+msgstr ""
+
+#: ../library/shortcodes/visual/container.php:38
+msgid "Add new element"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:7
+msgid "Kopa Advertisement"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:8
+msgid "Display banner image"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:34
+msgid "Upload Image"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:47
+msgid "Select size of image"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:48
+msgid "120 x 240"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:49
+msgid "120 x 600"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:50
+msgid "125 x 125"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:51
+msgid "160 x 600"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:52
+msgid "180 x 150"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:53
+msgid "200 x 200"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:54
+msgid "234 x 60"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:55
+msgid "250 x 250"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:56
+msgid "300 x 250"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:57
+msgid "336 x 280"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:58
+msgid "468 x 60"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:59
+msgid "728 x 90"
+msgstr ""
+
+#: ../library/widgets/advertisement.php:79
+msgid "Open link in new tab"
+msgstr ""
+
+#: ../library/widgets/contact-infomation.php:7
+msgid "Kopa Contact Information"
+msgstr ""
+
+#: ../library/widgets/contact-infomation.php:8
+msgid "Display your contact information"
+msgstr ""
+
+#: ../library/widgets/contact-infomation.php:55
+msgid "Add:"
+msgstr ""
+
+#: ../library/widgets/contact-infomation.php:58
+msgid "Fax:"
+msgstr ""
+
+#: ../library/widgets/contact-infomation.php:61
+msgid "Mobile:"
+msgstr ""
+
+#: ../library/widgets/contact-infomation.php:64
+msgid "Email:"
+msgstr ""
+
+#: ../library/widgets/flickr.php:7
+msgid "Kopa Flickr"
+msgstr ""
+
+#: ../library/widgets/flickr.php:8
+msgid "Display list photo from flickr"
+msgstr ""
+
+#: ../library/widgets/flickr.php:33
+msgid "ID"
+msgstr ""
+
+#: ../library/widgets/flickr.php:34
+#, php-format
+msgid "Get your flickr ID. Click <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../library/widgets/flickr.php:43
+msgid "Number of photos"
+msgstr ""
+
+#: ../library/widgets/most-reviews.php:7
+msgid "Kopa Most Reviews"
+msgstr ""
+
+#: ../library/widgets/most-reviews.php:8
+msgid "Display posts order by views count"
+msgstr ""
+
+#: ../library/widgets/most-reviews.php:64
+#: ../library/widgets/posts-carousel-scroll.php:91
+#: ../library/widgets/posts-carousel-single.php:103
+#: ../library/widgets/posts-carousel-thumb.php:65
+#: ../library/widgets/posts-carousel-two-cols.php:194
+#: ../library/widgets/posts-thumbnail-big-and-small.php:167
+#: ../library/widgets/posts-thumbnail-medium.php:127
+#: ../library/widgets/posts-thumbnail-none.php:110
+#: ../library/widgets/posts-thumbnail-small.php:67
+msgid "Posts not found. Pleae config this widget again!"
+msgstr ""
+
+#: ../library/widgets/newsletter.php:7
+msgid "Kopa Newsletter"
+msgstr ""
+
+#: ../library/widgets/newsletter.php:8
+msgid "Display email subscriptions form (by http://feedburner.google.com)"
+msgstr ""
+
+#: ../library/widgets/newsletter.php:33
+msgid "URI"
+msgstr ""
+
+#: ../library/widgets/newsletter.php:92
+msgid "Your Email"
+msgstr ""
+
+#: ../library/widgets/newsletter.php:95
+msgid "Subscribe"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:60
+msgid "Kopa Ajax Filter"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:61
+msgid "Display posts with ajax filter: created-date, views, likes, comments"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:65
+msgid "Disable filter by \"Date\""
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:66
+msgid "Disable filter by \"Comments\""
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:67
+msgid "Disable filter by \"Views\""
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:68
+msgid "Disable filter by \"Likes\""
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:83
+msgid "Disable load more"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:179
+msgid "Latest"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:183
+msgid "Most comment"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:187
+msgid "Most view"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:191
+msgid "Most like"
+msgstr ""
+
+#: ../library/widgets/posts-ajax-filter.php:248
+msgid "load more"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-scroll.php:7
+msgid "Kopa Carousel Scroll"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-scroll.php:8
+msgid "Display posts with owl carousel (scroll bottom)"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-single.php:7
+msgid "Kopa Carousel Single"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-single.php:8
+msgid "Display posts with owl carousel (single item per slide)"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-thumb.php:7
+msgid "Kopa Carousel Thumb"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-thumb.php:8
+msgid "Display posts with owl carousel (only thumb)"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-two-cols.php:7
+msgid "Kopa Carousel Two Cols"
+msgstr ""
+
+#: ../library/widgets/posts-carousel-two-cols.php:8
+msgid "Display posts with owl carousel (two cols)"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-big-and-small.php:7
+msgid "Kopa Posts Big IMG"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-big-and-small.php:8
+msgid "Display posts with layout: big thumb for first, small for next"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-medium.php:7
+msgid "Kopa Posts Medium IMG"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-medium.php:8
+msgid "Display posts with medium thumbnail (align left)"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-none.php:7
+msgid "Kopa Posts Without IMG"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-none.php:8
+msgid "Display posts without thumbnail"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-small.php:7
+msgid "Kopa Posts Small IMG"
+msgstr ""
+
+#: ../library/widgets/posts-thumbnail-small.php:8
+msgid "Display posts with small thumbnail"
+msgstr ""
+
+#: ../library/widgets/recent-comments.php:7
+msgid "Kopa Recent Comments"
+msgstr ""
+
+#: ../library/widgets/recent-comments.php:8
+msgid "Your site's most recent Posts"
+msgstr ""
+
+#: ../library/widgets/recent-comments.php:42
+msgid "Comment character limit"
+msgstr ""
+
+#: ../library/widgets/recent-comments.php:52
+msgid "Is hide author name"
+msgstr ""
+
+#: ../library/widgets/recent-comments.php:63
+msgid "Is hide gravatar"
+msgstr ""
+
+#: ../library/widgets/recent-comments.php:85
+msgid "Is hide comment content"
+msgstr ""
+
+#: ../library/widgets/slider-fluid.php:7
+msgid "Kopa Slider Fluid"
+msgstr ""
+
+#: ../library/widgets/slider-fluid.php:8
+msgid "This is a full width slider."
+msgstr ""
+
+#: ../library/widgets/slider-fluid.php:61
+msgid "read more"
+msgstr ""
+
+#: ../library/widgets/slider-steel.php:7
+msgid "Kopa Slider Steel"
+msgstr ""
+
+#: ../library/widgets/slider-steel.php:8
+msgid "This is slider with owl carousel"
+msgstr ""
+
+#: ../library/widgets/slider-steel.php:26
+msgid "Transition type"
+msgstr ""
+
+#: ../library/widgets/slider-steel.php:29
+msgid "fade"
+msgstr ""
+
+#: ../library/widgets/slider-steel.php:30
+msgid "fadeUp"
+msgstr ""
+
+#: ../library/widgets/slider-steel.php:31
+msgid "backSlide"
+msgstr ""
+
+#: ../library/widgets/slider-steel.php:32
+msgid "goDown"
+msgstr ""
+
+#: ../library/widgets/slider-text.php:7
+msgid "Kopa Slider Text"
+msgstr ""
+
+#: ../library/widgets/slider-text.php:8
+msgid "Display simple slider (4 lines per slide)"
+msgstr ""
+
+#: ../library/widgets/slider-text.php:30
+msgid "Number of slides"
+msgstr ""
+
+#: ../library/widgets/slider-text.php:102
+#, php-format
+msgid "Slide no.%s"
+msgstr ""
+
+#: ../library/widgets/slider-text.php:103
+#, php-format
+msgid "Line %s"
+msgstr ""
+
+#: ../library/widgets/slider-text.php:105
+msgid "URL"
+msgstr ""
+
+#: ../library/widgets/twitter.php:7
+msgid "Kopa Twitter"
+msgstr ""
+
+#: ../library/widgets/twitter.php:8
+msgid "Display list tweets from twitter.com"
+msgstr ""
+
+#: ../library/widgets/twitter.php:35
+msgid "Username"
+msgstr ""
+
+#: ../library/widgets/twitter.php:46
+msgid "Number of tweets"
+msgstr ""
+
+#: ../library/widgets/twitter.php:56
+msgid "API key"
+msgstr ""
+
+#: ../library/widgets/twitter.php:67
+msgid "API secret"
+msgstr ""
+
+#: ../library/widgets/twitter.php:78
+msgid "Access token"
+msgstr ""
+
+#: ../library/widgets/twitter.php:89
+msgid "Access token secret"
+msgstr ""
+
+#: ../library/widgets/twitter.php:139
+msgid "Sorry, there was a problem when load"
+msgstr ""
+
+# @ circle
+#: ../pagination.php:19
+msgid "Previous"
+msgstr ""
+
+# @ circle
+#: ../pagination.php:20
+msgid "Next"
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search..."
+msgstr ""

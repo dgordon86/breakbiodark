@@ -1,0 +1,325 @@
+/*CPANEL*/
+html, body{
+    min-height: 100%;
+}
+#wpfooter{
+    display: none !important;
+}
+#wpbody,
+#wpbody-content{
+    padding-bottom: 0px !important;
+    margin: 0px !important;
+    min-height: 100%;    
+}
+#kopa-cpanel-wrapper{       
+    width: 1148px;
+    margin:20px 0px 20px 0px;
+    background: url("../images/background.jpg") repeat-y scroll 0 0 #F7F7F7;    
+    min-height: 640px;    
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #444444;
+}
+.col-left{    
+    width: 180px;    
+    padding: 10px;
+}
+.col-right{    
+    width: 928px; 
+    padding: 10px;
+}
+.col-left{
+    background: url('../images/logo-cpanel.png') no-repeat center 20px transparent;    
+}
+.kopa-cpanel-nav{
+    border: 1px solid #15161A;
+    box-shadow: 0 0 1px #7E8596;
+    list-style-type: none;
+    margin-top: 62px;
+    padding: 0px;        
+}
+.kopa-cpanel-nav > li{
+    background-image: -moz-linear-gradient(top, #373B44, #2C2F36);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#373B44), to(#2C2F36));
+    background-image: -webkit-linear-gradient(top, #373B44, #2C2F36);
+    background-image: -o-linear-gradient(top, #373B44, #2C2F36);
+    background-image: linear-gradient(to bottom, #373B44, #2C2F36);
+    display: block;        
+    margin: 0px;    
+    padding: 0px;    
+}
+.kopa-cpanel-nav > li > a{
+    display: block;        
+    width: 158px;
+    height: 100%;
+    font-size: 13px;
+    padding: 10px;
+    border-bottom: 1px solid #090A0C;
+    border-top: 1px solid #40454F;
+    color: #F4F4F4;        
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000000;
+     -moz-outline-style: 0;
+     outline: 0;
+}
+.kopa-cpanel-nav > li > a:hover {
+    background-image: -moz-linear-gradient(top, #494F5B, #353941);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#494F5B), to(#353941));
+    background-image: -webkit-linear-gradient(top, #494F5B, #353941);
+    background-image: -o-linear-gradient(top, #494F5B, #353941);
+    background-image: linear-gradient(to bottom, #494F5B, #353941);
+    border-top-color: #525866;
+}
+.kopa-cpanel-nav > li > a.active{
+    background-image: -moz-linear-gradient(top, #5970A3, #394768);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5970A3), to(#394768));
+    background-image: -webkit-linear-gradient(top, #5970A3, #394768);
+    background-image: -o-linear-gradient(top, #5970A3, #394768);
+    background-image: linear-gradient(to bottom, #5970A3, #394768);
+    border-top-color: #798CB6;
+}
+.kopa-cpanel-nav > li:last-of-type > a{
+    border-bottom: none !important;
+}
+/*CAPTION*/
+.kopa-panel-title{
+    height: 50px;
+    line-height: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.kopa-panel-title > h3{    
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;    
+}
+.kopa-panel-title > h3 > span{
+    font-size: 12px;
+    color: #428BCA;    
+}
+.kopa-panel-title > h3 > span > a{
+    text-decoration: none;
+}
+/*FORM*/
+.frm-submit-block{
+    padding: 10px;
+    background: url("../images/action-bar.png") repeat scroll 0 0 transparent;
+    border: 1px solid #D5D5D5;
+    -webkit-box-shadow: inset 0px 0px 2px #FFFFFF;
+    -moz-box-shadow: inset 0px 0px 2px #FFFFFF;
+    box-shadow: inset 0px 0px 2px #FFFFFF;
+    text-align: right;
+}
+.frm-submit-bottom-block{
+    margin-bottom: 0px;
+}
+.kopa-tab{    
+}
+.kopa-tab-title,
+.kopa-tab-body{
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #D5D5D5;
+}
+.kopa-tab-title{
+    border: 1px solid #5970A3;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;    
+    margin-bottom: 1px;
+    background-color: #5970A3;
+}
+.kopa-tab > div{
+    margin-bottom: 30px;
+}
+.kopa-tab > div:last-child{
+    margin-bottom: 0px;
+}
+.kopa-tab-body{
+    margin: 0px;
+}
+.tab_active{
+    display: block;
+}
+.tab_deactive{
+    display: none;
+}
+#kopa-loading-gif{
+    display: block;
+    position: fixed;    
+    display: 66px;
+    height: 66px;
+    top: 300px;
+    right: 541px;    
+    background: transparent;
+    z-index: 999;
+    display: none;
+}
+.frm-submit-block a{
+    text-decoration: none;    
+}
+.kopa-tab-link > i{        
+    font-size: 16px;    
+    margin-right: 10px;
+    line-height: 18px;    
+    vertical-align: bottom;
+}
+.kopa-ui-help{    
+    color: #666;                
+    padding: 5px;
+    margin: 10px 0px 0px 0px;    
+    background-color: #FFF;
+    border-left: 3px solid #5970A3;
+}
+/******************************
+RESPONSIVE
+******************************/
+@media only screen and (min-width: 1280px) and (max-width:1330px){
+    #kopa-cpanel-wrapper{
+        width: 1070px;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 850px;
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width:1279px){
+    #kopa-cpanel-wrapper{
+        width: 820px;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 600px;
+    }   
+}
+@media only screen and (min-width: 980px) and (max-width:1023px){
+    #kopa-cpanel-wrapper{
+        width: 778px;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 558px;
+    }   
+}
+@media only screen and (min-width: 800px) and (max-width:979px){
+    #kopa-cpanel-wrapper{
+        width: 725px;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 505px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 799px){
+    #kopa-cpanel-wrapper{
+        width: 730px;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 510px;
+    }
+}
+@media only screen and (min-width: 640px) and (max-width: 767px){
+    #kopa-cpanel-wrapper{
+        width: 600px;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 380px;
+    }
+}
+@media only screen and (min-width: 600px) and (max-width: 639px){
+    #kopa-cpanel-wrapper{
+        width: 560px;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 340px;
+    }    
+}
+@media only screen and (min-width: 480px) and (max-width: 599px){
+    #kopa-cpanel-wrapper{
+        width: 450px;
+        background: none;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 364px;
+        border-left: 1px solid #444444;
+    }              
+}
+@media only screen and (min-width: 360px) and (max-width: 479px){
+    #kopa-cpanel-wrapper{
+        width: 330px;
+        background: none;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 244px;        
+    }              
+}
+@media only screen and (min-width: 320px) and (max-width: 359px){
+    #kopa-cpanel-wrapper{
+        width: 290px;
+        background: none;
+    }
+    #kopa-cpanel-wrapper > .col-right{
+        width: 204px;        
+    }              
+}
+@media only screen and (min-width: 320px) and (max-width:599px){
+    #kopa-cpanel-wrapper > .col-right{        
+        border-left: 1px solid #444444;
+    }   
+    #kopa-cpanel-wrapper > .col-left{
+        width: 45px;
+        overflow: hidden;
+    }
+    #kopa-cpanel-wrapper > .col-left .kopa-tab-link > span{
+        display: none;
+    }
+    .kopa-cpanel-nav > li > a{
+        width: auto;
+    }
+    .btn-reset-default{
+        width: 18px !important;
+    }
+    .btn-reset-default span{
+        display: none;        
+    }
+}
+@media only screen and (min-width: 320px) and (max-width:639px){
+    .kopa-opt-fields .row > .col-xs-3,
+    .kopa-opt-fields .row > .col-xs-9{
+        width: 100%;        
+    }
+    .kopa-opt-fields .row > .col-xs-3{
+        margin-bottom: 15px;
+    }
+    .kopa-opt-fields .row > .col-xs-9.col-xs-offset-3{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .row-sidebar-wrap > .col-xs-7,
+    .row-sidebar-wrap > .col-sidebar-title{
+        width: 100%;
+    }
+    .layout-manage-wrap{
+        padding-right: 15px;
+    }
+    .layout-manage-wrap > .row > .col-md-7{
+        padding: 30px 0px 0px 0px;
+    }
+    .btn-add-sidebar > span{
+        display: none;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width:1279px){
+    .kopa-opt-sub-fields .kopa-ui-label.kopa-ui-number-label.label_before_control{
+        width: 100px;
+    }
+    .kopa-opt-sub-fields > .row > .col-md-3,
+    .row_space15 > .col-md-1{
+        margin-bottom: 10px;
+    }
+    .kopa-opt-sub-fields > .row > .col-md-3:last-child{
+        margin-bottom: 0px;
+    }
+    .kopa-opt-fields select{
+        width: 100% !important;
+    }
+    .blog-thumbnai-style{
+        margin-bottom: 10px;
+    }
+}
