@@ -27,25 +27,10 @@ global $kopaCurrentSidebars;
                     $post_title = get_the_title();
                     $post_format = get_post_format();
                     ?>
-                    <article <?php post_class(array('post-content')); ?>>
-                        <?php
-                        if (has_post_thumbnail()) {
-                            $exp1 = empty($post_format) && $metadata['thumb'];
-                            $exp2 = $post_format && $metadata['thumb_other'];
-
-                            if ($exp1 || $exp2) {
-                                $image_croped = KopaImage::get_post_image_src($post_id, 'size_09');
-                                ?>
-                                <div class="kp-thumb">
-                                    <img src="<?php echo $image_croped; ?>" alt="" />                        
-                                </div>
-                                <?php
-                            }
-                        }
-                        ?>                     
+                    <article <?php post_class(array('post-content')); ?>>                   
                         <header class="clearfix">
                             <h1 class="title-post entry-title"><?php echo $post_title; ?></h1>                            
-                            <div class="header-bottom">
+                            <div class="header-bottom bb-single-page-header">
                                 <ul class="kp-meta-post list-inline">         
                                     <?php
                                     $is_first = true;
@@ -88,7 +73,23 @@ global $kopaCurrentSidebars;
                                 </ul>
                             </div>
                         </header>
-                        <div class="entry-content">
+                        
+                            <?php
+                        if (has_post_thumbnail()) {
+                            $exp1 = empty($post_format) && $metadata['thumb'];
+                            $exp2 = $post_format && $metadata['thumb_other'];
+
+                            if ($exp1 || $exp2) {
+                                $image_croped = KopaImage::get_post_image_src($post_id, 'size_06');
+                                ?>
+                                <div class="kp-thumb pull-right">
+                                    <img src="<?php echo $image_croped; ?>" alt="" />                        
+                                </div>
+                                <?php
+                            }
+                        }
+                        ?> 
+                        <div class="clearfix entrycontent">
                             <?php the_content(); ?>
                         </div>
 

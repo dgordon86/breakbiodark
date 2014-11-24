@@ -665,7 +665,7 @@ function kopa_get_about_author() {
                                 }
                             }
                             ?>
-                            <a target="_blank" href="<?php echo (empty(get_the_author_meta('rss', $user_id))) ?  get_author_feed_link($user_id) : get_the_author_meta('rss', $user_id);?>" class="fa fa-rss"></a>
+                            
                         </p>
                     <?php endif; ?>
                 </div>

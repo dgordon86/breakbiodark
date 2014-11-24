@@ -546,7 +546,7 @@ ul.kp-meta-post {
 /* content
 ===============================*/
 #content {
-  margin-top: 5px;
+  margin-top: 0px;
   border-top: 1px solid #e1e1e1;
   border-bottom: 1px solid #e1e1e1;
   margin-bottom: -1px; }
@@ -2392,7 +2392,8 @@ body .ui-tooltip {
   .sub-page .post-content .kp-meta-post {
     text-align: left; }
   .sub-page .post-content .kp-thumb {
-    margin-bottom: 20px; }
+    margin-bottom: 10px;
+    margin-left: 20px;}
   .sub-page .post-content .kp-tags {
     margin-top: 15px;
     margin-bottom: 0; }
@@ -4405,4 +4406,18 @@ a.bb-logo:hover {
     height: 25px;
     margin-top: 5px;
     width: 150px;
+}
+
+.bb-single-page-header {
+    border-bottom:1px #e1e1e1 solid; 
+    margin-bottom: 10px;
+}
+
+p {
+    color: #333;
+    font-size: 15px;
+}
+
+article .entrycontent a {
+ color: blue;   
 }
